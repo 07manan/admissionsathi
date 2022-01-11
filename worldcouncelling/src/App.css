@@ -1,3 +1,5 @@
+/* NavBar */
+
 .navbar-nav {
   height: 100%;
   width: 100%;
@@ -47,11 +49,11 @@
   background-color: white;
 }
 
+
+/* Background */
+
 body{
   height: 100%;
-}
-body{
-  
   background: url(../public/bg.png) no-repeat center center fixed;
   -webkit-background-size:cover;
   background-size: cover;
@@ -60,10 +62,22 @@ body{
 
 }
 
+/* carousal */
+
 .carousel-item{
- 
- 
   transform-style: preserve-3d;
   z-index: 1;
 
+}
+
+
+/* Footer */
+
+.footer{
+  margin-top: 25px;
+  width: 100%;
+  color: white;
+  padding: 25px;
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.671);
 }
