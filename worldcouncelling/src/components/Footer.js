@@ -11,7 +11,7 @@ class Footer extends React.Component {
                     <a href='mailto:g.c.consultants02gmail.com' target="_blank" rel="noreferrer" >g.c.consultants02gmail.com</a>|
                     <a href='tel:+919795141300' target="_blank" rel="noreferrer" >+91 9795141300</a>|
                     <a href='tel:+917985806900' target="_blank" rel="noreferrer" >+91 7985806900</a>
-                    <br/>Copyright © 2019 <a href="#">SAHJANAND Consultancy </a>
+                    <br/>Copyright © 2022 <a href="#">SAHJANAND Consultancy </a>
             </div>
             <div className="col-lg-2">
                 photo

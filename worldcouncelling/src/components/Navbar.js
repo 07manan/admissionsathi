@@ -8,9 +8,13 @@ class Navbar extends React.Component {
       <>
         <nav className="navbar navbar-expand-lg px-2">
           <div className="container-fluid">
-            <NavLink className="navbar-brand" to="#">
+            {/* <NavLink className="navbar-brand" to="#">
               Genesis Student Education Consultency
-            </NavLink>
+            </NavLink> */}
+             <NavLink class="navbar-brand" to="#">
+      <img  className="img-fluid" width={250}  src="logo1.jpg" alt="" />
+
+    </NavLink>
             <button
               className="navbar-toggler"
               type="button"
@@ -48,7 +52,7 @@ class Navbar extends React.Component {
                 </li>
                 <li className="nav-item mx-3">
                   <NavLink className="nav-link" to="/consult">
-                    Consult
+                    Contact Us
                   </NavLink>
                 </li>
               </ul>
