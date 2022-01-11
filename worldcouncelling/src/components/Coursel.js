@@ -5,17 +5,17 @@ export default function Coursel() {
     <div className="container row">
       <div
         id="carouselExampleFade"
-        className="carousel slide carousel-fade col-lg-8 col-sm-12 col-12 mt-5 ml-4 "
+        className="carousel slide carousel-fade col-lg-8 col-sm-12 col-12 mt-4 ml-4 "
         data-bs-ride="carousel"
       > 
           
       
         <div className="carousel-inner  ">
-          <div className="carousel-item active">
-            <img src="courcel.jpg" className="d-block w-100" alt="..." />
+          <div className="carousel-item ">
+            <img src="c4.jpg" className="d-block w-100" alt="..." />
           </div>
-          <div className="carousel-item">
-            <img src="c2.jpg" className="d-block w-100" alt="..." />
+          <div className="carousel-item active">
+            <img src="c3.jpg" className="d-block w-100" alt="..." />
           </div>
           <div className="carousel-item">
             <img src="courselth.jpg" className="d-block w-100 " alt="..." />
