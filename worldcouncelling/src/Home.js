@@ -9,7 +9,7 @@ function Home() {
     <>
         <Navbar/>
         <Coursel/>
-        <Footer/>
+        {/* <Footer/> */}
     </>
   );
 }
