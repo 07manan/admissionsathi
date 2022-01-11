@@ -59,3 +59,11 @@ body{
   -moz-background-size:cover;
 
 }
+
+.carousel-item{
+ 
+ 
+  transform-style: preserve-3d;
+  z-index: 1;
+
+}
