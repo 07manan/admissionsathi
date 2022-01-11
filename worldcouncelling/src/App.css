@@ -80,4 +80,11 @@ body{
   padding: 25px;
   border-radius: 15px;
   background-color: rgba(0, 0, 0, 0.671);
+  text-align: center;
+}
+
+.contact a{
+  margin: 0 10px;
+  color: aqua;
+  text-decoration: none;
 }

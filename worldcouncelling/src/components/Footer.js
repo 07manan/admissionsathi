@@ -6,13 +6,12 @@ class Footer extends React.Component {
         return <>
         <div className="footer row ">
             <div className="contact col-lg-10">
-                <ul>
-                    <li><a target="_blank">Instagram</a></li>
-                    <li><a target="_blank" >Facebook</a></li>
-                    <li><a href='mailto:g.c.consultants02gmail.com' target="_blank">g.c.consultants02gmail.com</a></li>
-                    <li><a href='tel:+919795141300' target="_blank">+91 9795141300</a></li>
-                    <li><a href='tel:+917985806900' target="_blank">+91 7985806900</a></li>
-                </ul>
+                    <a target="_blank" rel="noreferrer" >Instagram</a>|
+                    <a target="_blank" rel="noreferrer" >Facebook</a>|
+                    <a href='mailto:g.c.consultants02gmail.com' target="_blank" rel="noreferrer" >g.c.consultants02gmail.com</a>|
+                    <a href='tel:+919795141300' target="_blank" rel="noreferrer" >+91 9795141300</a>|
+                    <a href='tel:+917985806900' target="_blank" rel="noreferrer" >+91 7985806900</a>
+                    <br/>Copyright © 2019 <a href="#">SAHJANAND Consultancy </a>
             </div>
             <div className="col-lg-2">
                 photo

@@ -9,7 +9,7 @@ class Navbar extends React.Component {
         <nav className="navbar navbar-expand-lg px-2">
           <div className="container-fluid">
             <NavLink className="navbar-brand" to="#">
-              World Consultency
+              Genesis Student Education Consultency
             </NavLink>
             <button
               className="navbar-toggler"
@@ -31,24 +31,24 @@ class Navbar extends React.Component {
                   <NavLink
                     className="nav-link active"
                     aria-current="page"
-                    to="#"
+                    to="/"
                   >
                     Home
                   </NavLink>
                 </li>
                 <li className="nav-item mx-3">
-                  <NavLink className="nav-link" to="#">
+                  <NavLink className="nav-link" to="/about">
                     About Us
                   </NavLink>
                 </li>
                 <li className="nav-item mx-3">
-                  <NavLink className="nav-link" to="#">
+                  <NavLink className="nav-link" to="/services">
                     Services
                   </NavLink>
                 </li>
                 <li className="nav-item mx-3">
-                  <NavLink className="nav-link" to="#">
-                    Contact Us
+                  <NavLink className="nav-link" to="/consult">
+                    Consult
                   </NavLink>
                 </li>
               </ul>
