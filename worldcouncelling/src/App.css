@@ -87,12 +87,10 @@ body{
   flex: end;
 }
 
-.contact ul li a{
+.contact a{
   margin: 0 10px;
   color: aqua;
-  display: inline-flex;
-  flex-direction: row;
-  text-decoration: none;
+  text-decoration:wavy;
 }
 
 /* Consult form */
@@ -124,4 +122,24 @@ form{
 .submitbtn:hover{
   color: purple;
   background-color: rgba(255, 255, 255, 0);
+}
+
+/* Address */
+
+.address{
+  padding: 20px;
+  margin-top: 20px;
+}
+.address a{
+  color: aqua;
+  text-decoration: none;
+}
+
+/* Degree list on home page */
+.collegesanddegrees{
+  padding: 20px;
+  margin:30px;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
 }
