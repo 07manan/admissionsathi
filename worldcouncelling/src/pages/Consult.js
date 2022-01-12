@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from "../components/Navbar"
-/* import Footer from '../components/Footer'; */
+import Footer from '../components/Footer';
 import Contactusform from '../components/Contactusform';
 
 class Consult extends React.Component {
@@ -8,7 +8,7 @@ class Consult extends React.Component {
         return <div>
             <Navbar/>
              <Contactusform/>
-            {/* <Footer/> */}
+            <Footer/>
         </div>;
     }
 }
