@@ -11,12 +11,17 @@ export class Contactusform extends Component {
         </div>
 
         <div className="col-lg-3 text-justify">
-          <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSczKZFQ1VLscnUI1pg1ftNvwO0TSUMZUmkSuiI2M7avpKr74A/formResponse?embedded=true" >
+        Hi there!
+Welcome to the genesis students consultant family.
+I am glad that you are doing enquiry for this.I am happy to help for achiving your career goal.
+Our team will contact you ASAP.
+          <form target="_blank" rel="noreferrer"  action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSczKZFQ1VLscnUI1pg1ftNvwO0TSUMZUmkSuiI2M7avpKr74A/formResponse" >
             <div className="form-group">
               <label htmlFor="exampleInputName">Name</label>
               <input
                 type="text"
                 // name="entry.2005620554"
+                name="entry.2005620554"
                 className="form-control"
                 id="exampleInputEmail1"
                 aria-describedby="emailHelp"
@@ -28,6 +33,7 @@ export class Contactusform extends Component {
               <input
                 type="email"
                 // name="entry.1045781291"
+                name="entry.1045781291"
                 className="form-control"
                 id="exampleInputEmail"
                 placeholder="Enter Email"
@@ -39,6 +45,8 @@ export class Contactusform extends Component {
                 type="tel"
                 className="form-control"
                 // name="entry.1166974658"
+                name="entry.1166974658"
+               
                 id="exampleInputPhoneNumber"
                 placeholder="Enter Phone Number"
               />
@@ -48,6 +56,7 @@ export class Contactusform extends Component {
               <input
                 type="text"
                 // name="entry.1065046570"
+                name="entry.1065046570"
                 className="form-control"
                 id="exampleInputAddress"
                 placeholder="Enter Address"
@@ -59,12 +68,13 @@ export class Contactusform extends Component {
                 type="text"
                 className="form-control"
                 // name="entry.839337160"
+                name="entry.839337160"
                 id="exampleInputComments"
                 placeholder="Enter Comments"
               />
             </div>
             <div className="container d-flex justify-content-center">
-              <button type="submit" className="btn btn-success">
+              <button type="submit" target="_blank" rel="noreferrer" className="btn btn-success">
                 Submit
               </button>
             </div>
