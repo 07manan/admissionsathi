@@ -71,6 +71,7 @@ counters.forEach(coun => {
                     <i class="fa fa-globe"></i>
                 </div>
                 <h3>Web Designing</h3>
+                <span class="counter-value">40</span>
                 <div className="coun" data-target={60000}>5250</div>
             </div>
         </div>
@@ -81,6 +82,7 @@ counters.forEach(coun => {
                 </div>
                 <h3>Web Development</h3>
                 <div className="coun" data-target={25000}>0</div>
+                <span class="counter-value">3800</span>
             </div>
         </div>
     </div>
