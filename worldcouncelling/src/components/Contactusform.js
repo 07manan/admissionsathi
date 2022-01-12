@@ -18,7 +18,9 @@ export class Contactusform extends Component {
             <div className="col-11" style={{ margin: "10px 0px" }}>
               <b>Head Office</b>
               <br />
-              Office No. 5F, Dayal Tower, Durgakund, Varanasi, UP
+              Office No. 5F, Dayal Tower, Durgakund Rd, opp. Durgakund, <br/>
+              Padampuri Colony, Durgakund, Jawahar Nagar Colony, Bhelupur,<br/>
+              Varanasi, Uttar Pradesh 221010
             </div>
             <div className="col-1" style={{ margin: "10px 0px" }}>
               <i class="fas fa-phone"></i>
