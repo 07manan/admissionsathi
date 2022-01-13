@@ -152,6 +152,9 @@ form{
 }
 
 /* counter */
+.counters{
+  margin-top: 20px;
+}
 .counter{
   font-family: 'Open Sans', sans-serif;
   color: #fff;

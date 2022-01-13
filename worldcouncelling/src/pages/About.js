@@ -6,7 +6,7 @@ class About extends React.Component {
     render() { 
         return <>
             <Navbar/>
-            About
+            <h1>About</h1>
             <Footer/>
         </>;
     }
