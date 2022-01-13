@@ -1,3 +1,22 @@
+/* Scroll Bar */
+::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 191, 255);
+  border-radius: 2.5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(0, 113, 151);
+}
+
 /* NavBar */
 
 .navbar-nav {
@@ -76,11 +95,10 @@ body{
 
 .footer{
   margin-top: 25px;
-  margin-right: 0;
+  margin-left: 0;
   width: 100%;
   color: white;
   padding: 25px;
-  border-radius: 15px;
   background-color: rgba(0, 0, 0, 0.671);
   text-align: center;
   display: flex;
@@ -138,12 +156,15 @@ form{
 /* Degree list on home page */
 .collegesanddegrees{
   padding: 20px;
+  width: fit-content;
   margin:30px;
   border: 1px solid white;
   border-radius: 10px;
   color: white;
 }
-
+#list{
+  width: fit-content;
+}
 /* Maps css */
 .maps{
   border: 2px solid purple;

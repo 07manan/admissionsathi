@@ -4,7 +4,7 @@ import "../App.css";
 class College extends React.Component {
   render() {
     return (
-      <div className="row" >
+      <div className="row" id="list" >
         <div className="collegesanddegrees col-lg-8 col-sm-12 row">
           <div className="degree col-lg-6 col-sm 12">
             <h2>Assure your admission in</h2>
