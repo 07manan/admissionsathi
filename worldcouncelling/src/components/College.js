@@ -28,7 +28,7 @@ class College extends React.Component {
             </ul>
           </div>
           <div className="degree col-lg-6 col-sm-12">
-              <h2>Get Your Admission in IIT-JEE<br/>AKTU/NEEt</h2>
+              <h2>Get Your Admission in IIT-JEE<br/>AKTU/NEET</h2>
           </div>
         </div>
       </div>
