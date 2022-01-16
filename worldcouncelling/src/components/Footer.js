@@ -3,8 +3,8 @@ import "../App.css"
 
 class Footer extends React.Component {
     render() { 
-        return <div className="footer" >
-            <div className="contact">
+        return <div className="footer row" >
+            <div className="contact ">
                     <a href='/' target="_blank" rel="noreferrer" ><i class="fab fa-linkedin"></i> Linkedin </a>|
                     <a  href='https://www.facebook.com/sudish.sharma.9' target="_blank" rel="noreferrer" ><i class="fab fa-facebook-square"></i> Facebook </a>|
                     <a href='mailto:g.c.consultants02gmail.com' target="_blank" rel="noreferrer" > <i class="far fa-envelope"></i> g.c.consultants02gmail.com </a>|
