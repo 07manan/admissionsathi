@@ -27,7 +27,7 @@ export class Contactusform extends Component {
               <div className="col-1" style={{ margin: "10px 0px" }}>
                 <i class="fas fa-search-location" />
               </div>
-              <div className="container-fluid col-6 row text-justify">
+              <div className="container-fluid col-lg-6 col-md-12 col-sm-12 row text-justify">
               <b>Google Maps</b>
                 <iframe
                   title="map" className="maps"
