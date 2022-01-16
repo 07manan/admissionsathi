@@ -11,8 +11,8 @@ class Navbar extends React.Component {
             {/* <NavLink className="navbar-brand" to="#">
               Genesis Student Education Consultency
             </NavLink> */}
-             <NavLink class="navbar-brand" to="#">
-      <img  className="img-fluid" width={250}  src="logo1.jpg" alt="" />
+             <NavLink class="navbar-brand" to="/">
+      <img  className="img-fluid" width={200}  src="logo1.jpg" alt="" />
 
     </NavLink>
             <button

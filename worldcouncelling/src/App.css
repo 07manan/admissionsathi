@@ -65,10 +65,14 @@
 }
 .navbar-nav li:hover::after {
   width: 100%;
-  height: 1px;
+  height: 2px;
+  bottom: 0;
   background-color: white;
 }
-
+.img-fluid{
+  border-radius: 15px;
+  border: 2px solid white;
+}
 
 /* Background */
 
@@ -106,6 +110,7 @@ body{
 }
 
 .contact a{
+  height: auto;
   margin: 0 10px;
   color: aqua;
   text-decoration:wavy;
@@ -234,4 +239,12 @@ form{
 .counter.pink:before{ background-color: #FF5D94; }
 @media screen and (max-width:990px){
   .counter{ margin-bottom: 40px; }
+}
+
+/* About */
+
+.about{
+  margin: 2.5% 5%;
+  margin-right: 35%;
+  color: white;
 }
