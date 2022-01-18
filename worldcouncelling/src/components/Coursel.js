@@ -2,23 +2,30 @@ import React from "react";
 
 export default function Coursel() {
   return (
-    <div className="container row">
+    <div >
+      {/* className="container " row */}
       <div
         id="carouselExampleFade"
-        className="carousel slide carousel-fade col-lg-8 col-sm-12 col-12 mt-4 ml-4 "
+        className="carousel slide carousel-fade   "
         data-bs-ride="carousel"
       > 
-          
+{/*     col-lg-8 col-sm-12 col-12 mt-4 ml-4 */ }
       
         <div className="carousel-inner  ">
           <div className="carousel-item ">
-            <img src="c4.jpg" className="d-block w-100" alt="..." />
+            <img src="c4new.jpg" className="d-block w-100" alt="..." />
           </div>
           <div className="carousel-item active">
-            <img src="c3.jpg" className="d-block w-100" alt="..." />
+            <img src="c333.jpg" className="d-block w-100" alt="..." />
           </div>
           <div className="carousel-item">
-            <img src="courselth.jpg" className="d-block w-100 " alt="..." />
+            <img src="c5.jpg" className="d-block w-100 " alt="..." />
+          </div>
+          <div className="carousel-item">
+            <img src="c6.jpg" className="d-block w-100 " alt="..." />
+          </div>
+          <div className="carousel-item">
+            <img src="c7.jpg" className="d-block w-100 " alt="..." />
           </div>
         </div>
        
@@ -41,7 +48,7 @@ export default function Coursel() {
           <span className="visually-hidden">Next</span>
         </button>
 
-        <div class="col-md-6 col-sm-12 col-12"></div>
+        {/* <div class="col-md-6 col-sm-12 col-12"></div> */}
         </div>
         
       </div>
