@@ -237,6 +237,8 @@ form{
   display: block;
 }
 .counter.pink:before{ background-color: #FF5D94; }
+.counter.yellow:before{ background-color: #f0ec23; }
+.counter.sky:before{ background-color: #3a86e9; }
 @media screen and (max-width:990px){
   .counter{ margin-bottom: 40px; }
 }
