@@ -8,6 +8,7 @@ class About extends React.Component {
     return (
       <>
         <Navbar />
+        <a href="https://api.whatsapp.com/send?phone=919795141300 " target="_blank" rel="noreferrer" className="whatsapp-link"><img className="whatsapp-link" src="whatsapp-link.png" alt=""/> </a>
         <div className="about text-justify">
 
           <h2>Who are we?</h2>

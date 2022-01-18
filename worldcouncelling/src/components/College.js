@@ -31,6 +31,7 @@ class College extends React.Component {
           <div className="degree col-lg-6 col-sm-12">
               <h2>Get Your Admission in IIT-JEE<br/>AKTU/NEET</h2>
               <button className="formbutton" ><NavLink to="/documentation" >Apply Now</NavLink></button>
+              
           </div>
         </div>
       </div>
