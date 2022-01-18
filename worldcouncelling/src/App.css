@@ -284,3 +284,18 @@ form{
   color: white;
 }
 
+/* whatsapp */
+
+.whatsapp-link{
+  
+  position:fixed;
+	width: 181px;
+	height:84px;
+	bottom:60px;
+	right:40px;
+	
+	
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+
+}
