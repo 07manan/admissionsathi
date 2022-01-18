@@ -250,3 +250,31 @@ form{
   margin-right: 35%;
   color: white;
 }
+
+/* Documentation */
+.documentation{
+  margin: 2.5%;
+  margin-right: 10%;
+  color: white;
+}
+
+.documentation h2, .documentation ol li {
+  color: aqua;
+}
+
+.formbutton{
+  border: 1px solid aqua;
+  background-color: aqua;
+  border-radius: 5px;
+}
+.formbutton a{
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+.formbutton:hover{
+  background-color: rgba(0, 0, 0, 0);
+}
+.formbutton a:hover{
+  color: white;
+}
