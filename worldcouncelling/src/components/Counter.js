@@ -67,23 +67,40 @@ export default class Counter extends Component {
                 <div class="counter-icon">
                   <i class="fa fa-globe"></i>
                 </div>
-                <h3>Web Designing</h3>
-                <span class="counter-value">40</span>
-                <div className="coun" data-target={60000}>
-                  5250
-                </div>
+                <h2>Colleges Network</h2>
+
+                <div className="coun" data-target={60000}></div>
+                <span class="counter-value">800+</span>
               </div>
             </div>
             <div class="col-md-3 col-sm-6">
               <div class="counter pink">
                 <div class="counter-icon">
-                  <i class="fa fa-rocket"></i>
+                  <i class="fa fa-layer-group"></i>
                 </div>
-                <h3>Web Development</h3>
-                <div className="coun" data-target={25000}>
-                  0
+                <h2>Offered Courses </h2>
+                <div className="coun" data-target={25000}></div>
+                <span class="counter-value">30+</span>
+              </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+              <div class="counter sky">
+                <div class="counter-icon">
+                  <i class="fa fa-clock"></i>
                 </div>
-                <span class="counter-value">3800</span>
+                <h2>Trusted <h3>Since 2003</h3></h2>
+                <div className="coun" data-target={25000}></div>
+                <span class="counter-value">19+</span>
+              </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+              <div class="counter yellow">
+                <div class="counter-icon">
+                  <i class="fa fa-user-graduate"></i>
+                </div>
+                <h2>Happy students</h2>
+                <div className="coun" data-target={25000}></div>
+                <span class="counter-value">3500+</span>
               </div>
             </div>
           </div>
