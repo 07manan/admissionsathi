@@ -247,8 +247,8 @@ form{
 /* About */
 
 .about{
-  margin: 2.5% 5%;
-  margin-right: 35%;
+   margin: 2.5% 5%;
+  /*margin-right: 35%; */
   color: white;
 }
 
@@ -291,8 +291,8 @@ form{
   position:fixed;
 	width: 181px;
 	height:84px;
-	bottom:60px;
-	right:40px;
+	bottom:20%;
+	right:1%;
 	
 	
 	box-shadow: 2px 2px 3px #999;

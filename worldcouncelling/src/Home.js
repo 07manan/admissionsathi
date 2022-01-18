@@ -7,6 +7,7 @@ import College from './components/College';
 import Counter from './components/Counter';
 import Whoread from './components/Whoread';
 
+
 function Home() {
   return (
     <>
@@ -15,6 +16,7 @@ function Home() {
         <a href="https://api.whatsapp.com/send?phone=919795141300 " target="_blank" rel="noreferrer" className="whatsapp-link"><img className="whatsapp-link" src="whatsapp-link.png" alt=""/> </a>
         <Counter/>
         <Whoread/>
+       
         <College/>
         
         <Footer/>
