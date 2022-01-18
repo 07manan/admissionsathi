@@ -158,6 +158,7 @@ form{
   text-decoration: none;
 }
 
+
 /* Degree list on home page */
 .collegesanddegrees{
   padding: 20px;
@@ -251,6 +252,10 @@ form{
   color: white;
 }
 
+.about h2{
+  color: aqua;
+}
+
 /* Documentation */
 .documentation{
   margin: 2.5%;
@@ -278,3 +283,4 @@ form{
 .formbutton a:hover{
   color: white;
 }
+
