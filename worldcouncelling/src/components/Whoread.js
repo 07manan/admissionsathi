@@ -3,7 +3,8 @@ import { NavLink } from "react-router-dom";
 
 export default function Whoread() {
     return (
-        <div className="about text-justify">
+        <div className="about row">
+        <div className="col-8">   
         <h2>Who are we?</h2>
         <p>
           Genesis Students Consultants in Varanasi is one of the leading
@@ -39,7 +40,22 @@ export default function Whoread() {
           Pharmacy Colleges, Admission Consultants, Paramedical Institutes, B
           Sc Nursing Colleges, Polytechnic Colleges. Read more about us <NavLink to="/about" >read more...</NavLink>
         </p>
-        
+        </div>
+        <div className="col maps">
+      <h2 className="text-center">Chairmain's message</h2>
+      <div className="text-center"><img src="chair.jpg" alt="..." className='w-50 justify img-thumbnail' /></div>
+      <p className='text-justify'>
+        All 0f us have ability to delve deep into the realms of our mind and
+        find our impression about this world as well as our experiences . Some
+        of them turned into beautiful expression by the creative minded. Though
+        unpolished ,a gem can be spotted by an expert. At Genesis we provide
+        platform for the aspirants to get genuine guidance regarding their
+        admission in professional courses .
+      </p>
+      <p className="text-justify">  
+        We sincerely want to work together to give the students their choice of collage where they build the framework for their future
+      </p>
+    </div>
       </div>
     )
 }
