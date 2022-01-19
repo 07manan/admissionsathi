@@ -11,7 +11,7 @@ class Documentation extends React.Component {
         <div className="documentation">
           <h2>Documentation</h2>
           <p>
-            At MERIT, our documentation specialists will ensure that you have
+            At Genisis, our documentation specialists will ensure that you have
             the proper documents and guide you through the process of preparing
             them at the beginning of the application process. In almost all
             countries the documents to be submitted are similar and should be

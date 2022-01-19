@@ -162,15 +162,19 @@ form{
 /* Degree list on home page */
 .collegesanddegrees{
   padding: 20px;
-  width: fit-content;
+  width: 70%;
+  text-align: center;
   margin:30px;
   border: 1px solid white;
   border-radius: 10px;
   color: white;
 }
 #list{
-  width: fit-content;
+  margin-left: 5%;
+  width: 90%;
 }
+
+
 /* Maps css */
 .maps{
   border: 2px solid purple;
@@ -271,6 +275,7 @@ form{
   border: 1px solid aqua;
   background-color: aqua;
   border-radius: 5px;
+  width: fit-content;
 }
 .formbutton a{
   text-decoration: none;
@@ -311,4 +316,15 @@ form{
 }
 .accordion h1{
   color: white;
+}
+
+
+/* Services */
+
+.services{
+  color: white;
+  margin-top: 5%;
+}
+.services h1,.services h5{
+  color: aqua;
 }

@@ -30,7 +30,7 @@ class FAQ extends React.Component {
               data-bs-parent="#accordionExample"
             >
               <div className="accordion-body">
-                When considering what and where to study, Merit higher Education
+                When considering what and where to study, Genisis higher Education
                 counsellor will match your academic interests and your career
                 goals with course information from universities and institutions
                 across the world. It is very important that you think about the
@@ -152,7 +152,7 @@ class FAQ extends React.Component {
                 You would need your academic documents, passport copy, statement
                 of purpose, letter of recommendations, essays (if any) to start
                 the application process. Please consult your study abroad
-                counsellor at Merit Higher Education Consultants for guidance.
+                counsellor at Genisis Higher Education Consultants for guidance.
               </div>
             </div>
           </div>
@@ -180,7 +180,7 @@ class FAQ extends React.Component {
                 depending on the individual case, so the students need to apply
                 for their application at least 3 months prior to their course
                 commencement. The process can be quicker for certain countries.
-                Please consult your study abroad counsellor at Merit Higher
+                Please consult your study abroad counsellor at Genisis Higher
                 Education Consultants for guidance.
               </div>
             </div>
