@@ -17,7 +17,7 @@ class FAQ extends React.Component {
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseOne"
-                aria-expanded="true"
+                aria-expanded="false"
                 aria-controls="collapseOne"
               >
                 What should you consider when choosing what and where to study?
@@ -25,7 +25,7 @@ class FAQ extends React.Component {
             </h2>
             <div
               id="collapseOne"
-              className="accordion-collapse collapse"
+              className="accordion-collapse collapse show"
               aria-labelledby="headingOne"
               data-bs-parent="#accordionExample"
             >
