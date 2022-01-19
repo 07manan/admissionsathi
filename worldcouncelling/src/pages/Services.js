@@ -107,6 +107,19 @@ class Services extends React.Component {
               individually. We work with those who seeking to explore career
               options, career changes and seeking employment.
             </p>
+            <h5>Selection of Courses</h5>
+            <p>
+              Education experts at Joinus4Education map your academic history
+              and identify your career goals and interests which are essential
+              points to consider while choosing a course which will
+              significantly improve your career circumstances. We work with you
+              to customize a course selection that will give you the best
+              possible career outcome in the future. Joinus4Education
+              counsellors have updated lists of courses offered by different
+              education institutions around the world. You can get a list of
+              universities from our nearest office while getting free education
+              counselling from our counsellors
+            </p>
           </div>
         </div>
         <a

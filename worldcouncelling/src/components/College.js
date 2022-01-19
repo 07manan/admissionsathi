@@ -7,7 +7,7 @@ class College extends React.Component {
     return (
       <div className="row" id="list" >
         <div className="collegesanddegrees  row">
-          <h1>Our services are available in</h1>
+          <h1>Our services</h1>
           <div className="degree col-lg-6 col-sm 12">
             <ul>
               <li>Engineering</li>

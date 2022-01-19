@@ -169,6 +169,9 @@ form{
   border-radius: 10px;
   color: white;
 }
+.collegesanddegrees h1{
+  color: aqua;
+}
 #list{
   margin-left: 5%;
   width: 90%;
