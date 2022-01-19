@@ -55,6 +55,11 @@ class Navbar extends React.Component {
                     Contact Us
                   </NavLink>
                 </li>
+                <li className="nav-item mx-3">
+                  <NavLink className="nav-link" to="/faq">
+                    FAQs
+                  </NavLink>
+                </li>
               </ul>
             </div>
           </div>
