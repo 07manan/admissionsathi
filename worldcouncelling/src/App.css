@@ -279,6 +279,7 @@ form{
   background-color: aqua;
   border-radius: 5px;
   width: fit-content;
+  padding: 1%;
 }
 .formbutton a{
   text-decoration: none;
