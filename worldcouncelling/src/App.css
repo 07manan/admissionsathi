@@ -29,6 +29,7 @@
 .nav-link,.navbar-brand{
   color: white ;
 }
+
 .nav-link:hover{
   color: white;
 }
@@ -309,6 +310,20 @@ form{
 
 }
 
+.apply{
+  position:fixed;
+	width: 120px;
+	 height:60px;  
+	bottom: 40%;
+	right:1%;
+  border: 1px solid aqua;
+  background-color: aqua;
+  border-radius: 5px;
+	
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+
+}
 
 /* FAQs */
 .accordion-button{
@@ -345,18 +360,26 @@ homeservices */
   color: white;
 }
 
+.ham h2,h3{
+  color:aqua;
+}
 
-.apply{
-  position:fixed;
-	width: 120px;
-	 height:60px;  
-	bottom: 40%;
-	right:1%;
-  border: 1px solid aqua;
-  background-color: aqua;
-  border-radius: 5px;
-	
-	box-shadow: 2px 2px 3px #999;
-  z-index:100;
+.ham{
+  color: #ffffff;
+  margin-top: 3%;
+}
 
+table, td {
+  border: 3px solid black;
+}
+tr:nth-child(even){background-color: #f2f2f2c4}
+tr:nth-child(odd){background-color: 	#FFDB58}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+.jossa{
+  
+  
+  padding: 7px 10px;
 }

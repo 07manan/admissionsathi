@@ -1,6 +1,9 @@
 import React from "react";
 import "../App.css";
-import { NavLink } from "react-router-dom";
+import DropdownButton from 'react-bootstrap/DropdownButton';
+import { Dropdown } from "react-bootstrap";
+import { NavLink ,Link } from "react-router-dom";
+
 
 class Navbar extends React.Component {
   render() {
@@ -54,33 +57,12 @@ class Navbar extends React.Component {
                     Contact Us
                   </NavLink>
                 </li>
-                <li className="nav-item mx-3" >
-                  <div className="dropdown">
-                    <button
-                      className="btn dropdown-toggle"
-                      type="button"
-                      id="dropdownMenuButton"
-                      data-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                    >
-                      Dropdown button
-                    </button>
-                    <div
-                      className="dropdown-menu"
-                      aria-labelledby="dropdownMenuButton"
-                    >
-                      <a className="dropdown-item" href="#">
-                        Action
-                      </a>
-                      <a className="dropdown-item" href="#">
-                        Another action
-                      </a>
-                      <a className="dropdown-item" href="#">
-                        Something else here
-                      </a>
-                    </div>
-                  </div>
+                <li className="nav-item mx-3">
+                <DropdownButton className="nav-item" title="Courses">
+  <Dropdown.Item > <Link to="/engineering">Jay mata ji</Link> </Dropdown.Item>
+  <Dropdown.Item href="consult">Another action</Dropdown.Item>
+  <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
+</DropdownButton>
                 </li>
                 <li className="nav-item mx-3">
                   <NavLink className="nav-link" to="/faq">
