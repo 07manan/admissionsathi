@@ -82,9 +82,19 @@ class Documentation extends React.Component {
             <li>Passport copy of your photo has to be submitted.</li>
             <li>Photographs are required Only for certain Universities.</li>
           </ol>
-          <div style={{display:"flex",alignItems:"center",justifyContent:"center"}} >
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
             <button className="formbutton">
-              <a href="/" target="_blank" rel="noreferrer">
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdNXd8YkP0d0Fdq57NVgCpbcOCYXr16DMcHlf5PPYFzlLUqqw/viewform?usp=sf_link"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Proceed to fill Form
               </a>
             </button>
