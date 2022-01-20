@@ -2,12 +2,14 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import College from "../components/College";
+import Applywhat from "../components/Applywhat";
 
 class Services extends React.Component {
   render() {
     return (
       <div>
         <Navbar />
+        <Applywhat/>
         <div className="container">
           <div className="services">
             <h1>Councelling</h1>

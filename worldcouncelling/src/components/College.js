@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+
 import "../App.css";
 
 class College extends React.Component {
@@ -41,9 +41,7 @@ class College extends React.Component {
               <li>MDS and many more</li>
             </ul>
           </div>
-          <button className="formbutton">
-            <NavLink to="/documentation">Apply Now</NavLink>
-          </button>
+          
         </div>
       </div>
     );
