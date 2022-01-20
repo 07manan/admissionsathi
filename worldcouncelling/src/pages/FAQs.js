@@ -2,12 +2,14 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../App.css";
+import Applywhat from "../components/Applywhat";
 
 class FAQ extends React.Component {
   render() {
     return (
       <>
         <Navbar />
+        <Applywhat/>
         <div className="accordion container" id="accordionExample">
           <h1>FAQs</h1>
           <div className="accordion-item">
