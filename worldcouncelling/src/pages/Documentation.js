@@ -81,7 +81,10 @@ class Documentation extends React.Component {
             </p>
             <li>Passport copy of your photo has to be submitted.</li>
             <li>Photographs are required Only for certain Universities.</li>
+            <li></li>
           </ol>
+          < h3  style={{color:"yellow"}}>
+            Fill out this form and send your detail to us and achive your career goal. Our team will contact you as soon as possible and let you know about procedure and payment.         </h3>
           <div
             style={{
               display: "flex",
