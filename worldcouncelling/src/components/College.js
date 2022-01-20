@@ -5,9 +5,18 @@ import "../App.css";
 class College extends React.Component {
   render() {
     return (
-      <div className="row" id="list" >
+      <div className="row" id="list">
         <div className="collegesanddegrees  row">
-          <h1>Our services</h1>
+          <h2 style={{ color: "aqua" }}>
+            JEE (JOSSA), AKTU (UPSEE), COMED-K, MHCET, WBJEE & OTHER STATES
+            COUNSELLING CENTRE
+          </h2>
+          <h5 style={{ fontFamily:"monospace" }}>
+            DIRECT ADMISSION GUIDANCE IN TOP PRIVATE ENGINEERING COLLEGE IN
+            PUNE, BANGLORE, GRETER NOIDA,
+            CHENNAI, JAIPUR, LUCKNOW, ALLAHABAD, VARANASI ETC.
+          </h5>
+          <h1>Our courses</h1>
           <div className="degree col-lg-6 col-sm 12">
             <ul>
               <li>Engineering</li>
@@ -32,7 +41,9 @@ class College extends React.Component {
               <li>MDS and many more</li>
             </ul>
           </div>
-          <button className="formbutton" ><NavLink to="/documentation" >Apply Now</NavLink></button>
+          <button className="formbutton">
+            <NavLink to="/documentation">Apply Now</NavLink>
+          </button>
         </div>
       </div>
     );
