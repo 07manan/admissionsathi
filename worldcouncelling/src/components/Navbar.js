@@ -11,10 +11,9 @@ class Navbar extends React.Component {
             {/* <NavLink className="navbar-brand" to="#">
               Genesis Student Education Consultency
             </NavLink> */}
-             <NavLink class="navbar-brand" to="/">
-      <img  className="img-fluid" width={200}  src="logo1.jpg" alt="" />
-
-    </NavLink>
+            <NavLink class="navbar-brand" to="/">
+              <img className="img-fluid" width={200} src="logo1.jpg" alt="" />
+            </NavLink>
             <button
               className="navbar-toggler"
               type="button"
@@ -54,6 +53,34 @@ class Navbar extends React.Component {
                   <NavLink className="nav-link" to="/consult">
                     Contact Us
                   </NavLink>
+                </li>
+                <li className="nav-item mx-3" >
+                  <div className="dropdown">
+                    <button
+                      className="btn dropdown-toggle"
+                      type="button"
+                      id="dropdownMenuButton"
+                      data-toggle="dropdown"
+                      aria-haspopup="true"
+                      aria-expanded="false"
+                    >
+                      Dropdown button
+                    </button>
+                    <div
+                      className="dropdown-menu"
+                      aria-labelledby="dropdownMenuButton"
+                    >
+                      <a className="dropdown-item" href="#">
+                        Action
+                      </a>
+                      <a className="dropdown-item" href="#">
+                        Another action
+                      </a>
+                      <a className="dropdown-item" href="#">
+                        Something else here
+                      </a>
+                    </div>
+                  </div>
                 </li>
                 <li className="nav-item mx-3">
                   <NavLink className="nav-link" to="/faq">

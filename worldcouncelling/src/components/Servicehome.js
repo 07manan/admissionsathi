@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from "react-router-dom";
 
 export default function Servicehome() {
-  return <div className="row">
+  return <div style={{width:"inherit"}} className="row">
   <div className="row homeservices">
     
     <h1 style={{ color: "aqua" }}>Our Services</h1>
