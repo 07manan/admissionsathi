@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import College from "./components/College";
 import Counter from "./components/Counter";
 import Whoread from "./components/Whoread";
+import Servicehome from "./components/Servicehome";
 
 function Home() {
   return (
@@ -22,6 +23,7 @@ function Home() {
       </a>
       <Counter />
       <Whoread />
+      <Servicehome/>
 
       <College />
 
