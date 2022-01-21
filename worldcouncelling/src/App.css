@@ -398,3 +398,10 @@ th {
 .hambtn{
   width: 250px;
 }
+ .hide{
+  display: none;
+} 
+tr{
+  color: black;
+  font-size: 16px;
+}
