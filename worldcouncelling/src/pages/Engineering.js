@@ -2,8 +2,9 @@ import React from "react";
 import Applywhat from "../components/Applywhat";
 import Footer from "../components/Footer";
 import Maps from "../components/Maps";
-
+import { NavLink } from "react-router-dom";
 import Navbar from "../components/Navbar";
+import Privateeng from "../components/Privateeng";
 
 export default function Engineering() {
   return (
@@ -29,7 +30,12 @@ export default function Engineering() {
         
         <h2>Here The list of JoSAA  participating institutes</h2>
    <Maps/>
+   <h2>Here The list of Top Pr participating institutes</h2>
+   <Privateeng/>
    <h3>Assure Your admission in india's top engineering Colleges.</h3>
+   <div className="container d-flex justify-content-center">
+   <NavLink to="/documentation" > <img className="hambtn" src="apply.jpg" alt="" /> </NavLink>
+  </div>
       </div>
       </div>
         <Footer />
