@@ -6,6 +6,7 @@ import { NavLink } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Privateeng from "../components/Privateeng";
 
+
 export default function Engineering() {
   return (
     <div>
@@ -38,6 +39,7 @@ export default function Engineering() {
   </div>
       </div>
       </div>
+      
         <Footer />
     </div>
   );
