@@ -4,7 +4,9 @@ import About from "./pages/About";
 import Consult from "./pages/Consult";
 import Services from "./pages/Services";
 import Documentation from "./pages/Documentation";
-import Engineering from "./pages/Engineering"; 
+import Engineering from "./pages/Engineering";
+import Dental from "./pages/Dental";
+import Medical from "./pages/Medical";
 import FAQ from "./pages/FAQs";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
@@ -13,13 +15,15 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home/>} />
-        <Route path="/about" element={<About/>} />
-        <Route path="/consult" element={<Consult/>} />
-        <Route path="/services" element={<Services/>}/>
-        <Route path="/faq" element={<FAQ/>}/>
-       <Route path="/engineering" element={<Engineering/>}/>
-        <Route path="/documentation" element={<Documentation/>}/>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/consult" element={<Consult />} />
+        <Route path="/services" element={<Services />} />
+        <Route path="/faq" element={<FAQ />} />
+        <Route path="/dental" element={<Dental/>} />
+        <Route path="/medical" element={<Medical/>}/>
+        <Route path="/engineering" element={<Engineering />} />
+        <Route path="/documentation" element={<Documentation />} />
       </Routes>
     </>
   );

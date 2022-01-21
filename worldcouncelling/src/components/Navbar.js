@@ -64,11 +64,11 @@ class Navbar extends React.Component {
                     </Dropdown.Item>
                     <Dropdown.Item>
                       {" "}
-                      <Link className="dropdownlink" to="/engineering">Medical</Link>{" "}
+                      <Link className="dropdownlink" to="/medical">Medical</Link>{" "}
                     </Dropdown.Item>
                     <Dropdown.Item>
                       {" "}
-                      <Link className="dropdownlink" to="/engineering">Dental</Link>{" "}
+                      <Link className="dropdownlink" to="/dental">Dental</Link>{" "}
                     </Dropdown.Item>
                   </DropdownButton>
                 </li>
