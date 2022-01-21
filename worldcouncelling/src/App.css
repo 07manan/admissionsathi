@@ -49,7 +49,6 @@
 }
 .navbar-toggler{
   border-color: white
-  /* background-color: yellow; */
 }
 .line{
   background-color: white;
@@ -73,6 +72,20 @@
 .img-fluid{
   border-radius: 15px;
   border: 2px solid white;
+}
+
+#cources{
+  background-color: rgba(0, 0, 0, 0)!important;
+  border: rgba(0, 0, 0, 0);
+}
+.dropdown-menu{
+  background-color: rgba(128, 0, 128, 0.349);
+  border: 2px solid white;
+}
+.dropdownlink {
+  text-decoration: none;
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 /* Background */
@@ -369,7 +382,7 @@ homeservices */
   margin-top: 3%;
 }
 
-table, td {
+table, td,th {
   border: 3px solid black;
 }
 tr:nth-child(even){background-color: #f2f2f2c4}

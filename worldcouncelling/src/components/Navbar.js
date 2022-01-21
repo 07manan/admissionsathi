@@ -2,8 +2,7 @@ import React from "react";
 import "../App.css";
 import DropdownButton from 'react-bootstrap/DropdownButton';
 import { Dropdown } from "react-bootstrap";
-import { NavLink ,Link } from "react-router-dom";
-
+import { NavLink, Link } from "react-router-dom";
 
 class Navbar extends React.Component {
   render() {
@@ -57,12 +56,21 @@ class Navbar extends React.Component {
                     Contact Us
                   </NavLink>
                 </li>
-                <li className="nav-item mx-3">
-                <DropdownButton className="nav-item" title="Courses">
-  <Dropdown.Item > <Link to="/engineering">Jay mata ji</Link> </Dropdown.Item>
-  <Dropdown.Item href="consult">Another action</Dropdown.Item>
-  <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
-</DropdownButton>
+                <li className="nav-item mx-3" >
+                  <DropdownButton className="nav-item" id="cources"  title="Courses">
+                    <Dropdown.Item>
+                      {" "}
+                      <Link className="dropdownlink" to="/engineering">Engineering</Link>{" "}
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      {" "}
+                      <Link className="dropdownlink" to="/engineering">Medical</Link>{" "}
+                    </Dropdown.Item>
+                    <Dropdown.Item>
+                      {" "}
+                      <Link className="dropdownlink" to="/engineering">Dental</Link>{" "}
+                    </Dropdown.Item>
+                  </DropdownButton>
                 </li>
                 <li className="nav-item mx-3">
                   <NavLink className="nav-link" to="/faq">
