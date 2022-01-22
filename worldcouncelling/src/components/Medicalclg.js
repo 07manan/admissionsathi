@@ -4,9 +4,15 @@ export default class Dentalclg extends React.Component {
   render() {
     return (
       <div>
-        <table className="medicaltable" >
+        <table className="medicaltable">
           <tbody>
-            <tr>
+            <tr
+              style={{
+                fontSize: "25px",
+                textAlign: "center",
+                fontFamily: "sans-serif",
+              }}
+            >
               <td>Rank</td>
               <td>Name</td>
               <td>State</td>

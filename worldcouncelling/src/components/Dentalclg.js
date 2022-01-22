@@ -4,7 +4,7 @@ export default class Dentalclg extends Component {
   render() {
     return <div className="container-fluid row jossa text-justify">
     <table
-            class="boxcont"
+            className="boxcont"
             cellspacing="0"
             rules="all"
             id="gvSearchCollegelist"
@@ -15,725 +15,725 @@ export default class Dentalclg extends Component {
                style={{fontSize: '25px', textAlign: 'center' ,fontFamily:"sans-serif"}}
               >
                 <th scope="col">S.No.</th>
-                <th class="style" scope="col">College Name</th>
-                <th class="style" scope="col">State</th>
-                <th class="style" scope="col">Type</th>
+                <th className="style" scope="col">College Name</th>
+                <th className="style" scope="col">State</th>
+                <th className="style" scope="col">Type</th>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>1</td>
-                <td class="style">
+                <td className="style">
                   Anil Neerukonda Institute of Dental Sciences, Visakhapatnam
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2013-14</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>2</td>
-                <td class="style">
+                <td className="style">
                   C.K.S. Teja Institute of Dental Sciences &amp; Research, Tirupati
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>3</td>
-                <td class="style">Care Dental College, Guntur</td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Care Dental College, Guntur</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2017-18</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
                 
               >
                 <td>4</td>
-                <td class="style">
+                <td className="style">
                   Drs. Sudha &amp; Nageswara Rao Siddhartha Institute of Dental
                   Sciences, Gannavaram Mandalam
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>5</td>
-                <td class="style">
+                <td className="style">
                   G. Pulla Reddy Dental College &amp; Hospital, Kurnool
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>6</td>
-                <td class="style">
+                <td className="style">
                   Gitam Dental College &amp; Hospital, Vishakhapatnam
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>7</td>
-                <td class="style">
+                <td className="style">
                   Govt. Dental College &amp; Hospital, Vijayawada
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
               </tr>
               
                 
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>9</td>
-                <td class="style">
+                <td className="style">
                   GSL Dental College &amp; Hospital, Rajahmundry
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2013-14</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>10</td>
-                <td class="style">KIMS Dental College, Amalapuram</td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">KIMS Dental College, Amalapuram</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2014-15</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>11</td>
-                <td class="style">
+                <td className="style">
                   Lenora Institute of Dental Sciences, Rajahmundry
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>12</td>
-                <td class="style">
+                <td className="style">
                   Narayana Dental College &amp; Hospital, Nellore
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>13</td>
-                <td class="style">Sibar Institute of Dental Sciences, Guntur</td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Sibar Institute of Dental Sciences, Guntur</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>14</td>
-                <td class="style">
+                <td className="style">
                   Sree Sai Dental College &amp; Research Institute, Srikakulam
                 </td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>15</td>
-                <td class="style">St. Joseph Dental College, Duggirala</td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">St. Joseph Dental College, Duggirala</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>16</td>
-                <td class="style">Vishnu Dental College, Bhimavaram</td>
-                <td class="style">Andhra Pradesh</td>
+                <td className="style">Vishnu Dental College, Bhimavaram</td>
+                <td className="style">Andhra Pradesh</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>17</td>
-                <td class="style">Govt. Dental College, Dibrugarh, Assam</td>
-                <td class="style">Assam</td>
+                <td className="style">Govt. Dental College, Dibrugarh, Assam</td>
+                <td className="style">Assam</td>
                 <td    className="hide">2018-19</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>18</td>
-                <td class="style">Govt. Dental College, Silchar, Assam</td>
-                <td class="style">Assam</td>
+                <td className="style">Govt. Dental College, Silchar, Assam</td>
+                <td className="style">Assam</td>
                 <td    className="hide">2018-19</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
              
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>19</td>
-                <td class="style">Regional Dental College, Guwahati</td>
-                <td class="style">Assam</td>
+                <td className="style">Regional Dental College, Guwahati</td>
+                <td className="style">Assam</td>
                 <td    className="hide">1982-83</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>20</td>
-                <td class="style">
+                <td className="style">
                   Buddha Institute of Dental Sciences &amp; Hospital, Kankarbagh,
                   Patna
                 </td>
-                <td class="style">Bihar</td>
+                <td className="style">Bihar</td>
                 <td    className="hide">1985-86</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
           
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>21</td>
-                <td class="style">
+                <td className="style">
                   Dr. B.R. Ambedkar Institute of Dental Sciences &amp; Hospital,
                   Patna
                 </td>
-                <td class="style">Bihar</td>
+                <td className="style">Bihar</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>22</td>
-                <td class="style">
+                <td className="style">
                   Mithila Minority Dental College &amp; Hospital, Darbhanga
                 </td>
-                <td class="style">Bihar</td>
+                <td className="style">Bihar</td>
                 <td    className="hide">1989-90</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
             
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                 
                  
               >
                 <td>23</td>
-                <td class="style">Patna Dental College &amp; Hospital, Patna</td>
-                <td class="style">Bihar</td>
+                <td className="style">Patna Dental College &amp; Hospital, Patna</td>
+                <td className="style">Bihar</td>
                 <td    className="hide">1960-61</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>24</td>
-                <td class="style">Sarjug Dental College, Darbhanga</td>
-                <td class="style">Bihar</td>
+                <td className="style">Sarjug Dental College, Darbhanga</td>
+                <td className="style">Bihar</td>
                 <td    className="hide">1988-89</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>25</td>
-                <td class="style">
+                <td className="style">
                   Dr. Harvansh Singh Judge Institute of Dental Sciences &amp;
                   Hospital, Chandigarh
                 </td>
-                <td class="style">Chandigarh</td>
+                <td className="style">Chandigarh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
              
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>26</td>
-                <td class="style">
+                <td className="style">
                   Chattisgarh Dental College &amp; Research Institute, Rajnandgaon
                 </td>
-                <td class="style">Chhattisgarh</td>
+                <td className="style">Chhattisgarh</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>27</td>
-                <td class="style">Govt. Dental College, Raipur, Chhattisgarh</td>
-                <td class="style">Chhattisgarh</td>
+                <td className="style">Govt. Dental College, Raipur, Chhattisgarh</td>
+                <td className="style">Chhattisgarh</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>28</td>
-                <td class="style">
+                <td className="style">
                   Maitri College of Dentistry and Research Centre, Durg
                 </td>
-                <td class="style">Chhattisgarh</td>
+                <td className="style">Chhattisgarh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>29</td>
-                <td class="style">
+                <td className="style">
                   New Horizon Dental College &amp; Research Instiute, Bilaspur
                 </td>
-                <td class="style">Chhattisgarh</td>
+                <td className="style">Chhattisgarh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>30</td>
-                <td class="style">
+                <td className="style">
                   Rungta College of Dental Sciences &amp; Research, Bhilai
                 </td>
-                <td class="style">Chhattisgarh</td>
+                <td className="style">Chhattisgarh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>31</td>
-                <td class="style">
+                <td className="style">
                   Triveni Institute of Dental Sciences, Hosptial &amp; Research
                   Centre, Bilaspur
                 </td>
-                <td class="style">Chhattisgarh</td>
+                <td className="style">Chhattisgarh</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>32</td>
-                <td class="style">Vaidik Dental College and Research Centre,</td>
-                <td class="style">Daman &amp; Diu</td>
+                <td className="style">Vaidik Dental College and Research Centre,</td>
+                <td className="style">Daman &amp; Diu</td>
                 <td    className="hide">2009-10</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
              
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>33</td>
-                <td class="style">
+                <td className="style">
                   Army Hospital (Research and Referral) Delhi Cantt, Delhi
                 </td>
-                <td class="style">Delhi</td>
+                <td className="style">Delhi</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>34</td>
-                <td class="style">ESIC Dental College, Rohini, New Delhi</td>
-                <td class="style">Delhi</td>
+                <td className="style">ESIC Dental College, Rohini, New Delhi</td>
+                <td className="style">Delhi</td>
                 <td    className="hide">2010-11</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>35</td>
-                <td class="style">
+                <td className="style">
                   Faculty of Dentistry, Jamia Millia Islamia, New Delhi
                 </td>
-                <td class="style">Delhi</td>
+                <td className="style">Delhi</td>
                 <td    className="hide">2009-10</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>36</td>
-                <td class="style">
+                <td className="style">
                   Lady Hardinge Medical College &amp; Smt. Sucheta Kriplani Hospital
                   New Delhi
                 </td>
-                <td class="style">Delhi</td>
+                <td className="style">Delhi</td>
                 <td    className="hide">&nbsp;</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
              
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>37</td>
-                <td class="style">
+                <td className="style">
                   Maulana Azad Dental College &amp; Hospital, New Delhi
                 </td>
-                <td class="style">Delhi</td>
+                <td className="style">Delhi</td>
                 <td    className="hide">1983-84</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>38</td>
-                <td class="style">
+                <td className="style">
                   University College of Medical Sciences, Dilshad Garden
                 </td>
-                <td class="style">Delhi</td>
+                <td className="style">Delhi</td>
                 <td    className="hide">1971-72</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>39</td>
-                <td class="style">Goa Dental College &amp; Hospital, Goa</td>
-                <td class="style">Goa</td>
+                <td className="style">Goa Dental College &amp; Hospital, Goa</td>
+                <td className="style">Goa</td>
                 <td    className="hide">1980-81</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>40</td>
-                <td class="style">
+                <td className="style">
                   Ahmedabad Dental College &amp; Hospital, Gandhinagar
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
             
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>41</td>
-                <td class="style">AMC Dental College, Ahmedabad</td>
-                <td class="style">Gujarat</td>
+                <td className="style">AMC Dental College, Ahmedabad</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
            
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>42</td>
-                <td class="style">
+                <td className="style">
                   College of Dental Sciences and Research Centre, Ahmedabad
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
            
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>43</td>
-                <td class="style">College of Dental Sciences, Amargadh</td>
-                <td class="style">Gujarat</td>
+                <td className="style">College of Dental Sciences, Amargadh</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2009-10</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>44</td>
-                <td class="style">
+                <td className="style">
                   Faculty of Dental Science, Dharmsinh Desai University, Nadiad
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>45</td>
-                <td class="style">
+                <td className="style">
                   Goenka Research Institute of Dental Sciences, Gandhinagar
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2011-12</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>46</td>
-                <td class="style">
+                <td className="style">
                   Govt. Dental College &amp; Hospital, Ahmedabad
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">1963-64</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>47</td>
-                <td class="style">Govt. Dental College Hospital, Jamnagar</td>
-                <td class="style">Gujarat</td>
+                <td className="style">Govt. Dental College Hospital, Jamnagar</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>48</td>
-                <td class="style">
+                <td className="style">
                   K.M. Shah Dental College &amp; Hospital, Vadodara
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>49</td>
-                <td class="style">Karnavati School of Dentistry, Gandhinagar</td>
-                <td class="style">Gujarat</td>
+                <td className="style">Karnavati School of Dentistry, Gandhinagar</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>50</td>
-                <td class="style">
+                <td className="style">
                   Manubhai Patel Dental College &amp; Dental Hospital &amp; SSR
                   General Hospital, Vadodara
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>51</td>
-                <td class="style">
+                <td className="style">
                   Narsinhbhai Patel Dental College &amp; Hospital, Visnagar
                 </td>
-                <td class="style">Gujarat</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>52</td>
-                <td class="style">Siddhpur Dental College, Patan</td>
-                <td class="style">Gujarat</td>
+                <td className="style">Siddhpur Dental College, Patan</td>
+                <td className="style">Gujarat</td>
                 <td    className="hide">2012-13</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>53</td>
-                <td class="style">D.A.V. Centenary Dental College, Yamuna nagar</td>
-                <td class="style">Haryana</td>
+                <td className="style">D.A.V. Centenary Dental College, Yamuna nagar</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">1987-88</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>54</td>
-                <td class="style">Jan Nayak Ch. Devi Lal Dental College, Sirsa</td>
-                <td class="style">Haryana</td>
+                <td className="style">Jan Nayak Ch. Devi Lal Dental College, Sirsa</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
              
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>55</td>
-                <td class="style">
+                <td className="style">
                   Maharishi Markandeshwar College of Dental Sciences &amp; Research,
                   Mullana
                 </td>
-                <td class="style">Haryana</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -746,294 +746,294 @@ export default class Dentalclg extends Component {
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>56</td>
-                <td class="style">Manav Rachana Dental College, Faridabad</td>
-                <td class="style">Haryana</td>
+                <td className="style">Manav Rachana Dental College, Faridabad</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>57</td>
-                <td class="style">
+                <td className="style">
                   PDM Dental College &amp; Research Institute, Jhajjar
                 </td>
-                <td class="style">Haryana</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>58</td>
-                <td class="style">
+                <td className="style">
                   Post Graduate Institute of Dental Sciences, Rohtak
                 </td>
-                <td class="style">Haryana</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">1980-81</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>59</td>
-                <td class="style">
+                <td className="style">
                   Sri Govind Tricentenary Dental College, Hospital &amp; Research
                   Institute
                 </td>
-                <td class="style">Haryana</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>60</td>
-                <td class="style">
+                <td className="style">
                   Sudha Rustagi College of Dental Sciences &amp; Research,Faridabad
                 </td>
-                <td class="style">Haryana</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>61</td>
-                <td class="style">
+                <td className="style">
                   Swami Devi Dyal Hospital &amp; Dental College, Panchkula
                 </td>
-                <td class="style">Haryana</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>62</td>
-                <td class="style">
+                <td className="style">
                   Yamuna Institute of Dental Sciences &amp; Research, Yamuna Nagar
                 </td>
-                <td class="style">Haryana</td>
+                <td className="style">Haryana</td>
                 <td    className="hide">2012-13</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>63</td>
-                <td class="style">
+                <td className="style">
                   Bhojia Dental College &amp; Hospital, Nalagarh
                 </td>
-                <td class="style">Himachal Pradesh</td>
+                <td className="style">Himachal Pradesh</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
              
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>64</td>
-                <td class="style">
+                <td className="style">
                   H.P. Govt. Dental College &amp; Hospital, Shimla
                 </td>
-                <td class="style">Himachal Pradesh</td>
+                <td className="style">Himachal Pradesh</td>
                 <td    className="hide">1994-95</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>65</td>
-                <td class="style">Himachal Dental College, Sunder Nagar</td>
-                <td class="style">Himachal Pradesh</td>
+                <td className="style">Himachal Dental College, Sunder Nagar</td>
+                <td className="style">Himachal Pradesh</td>
                 
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>66</td>
-                <td class="style">
+                <td className="style">
                   Himachal Institute of Dental Sciences, Poanta Sahib
                 </td>
-                <td class="style">Himachal Pradesh</td>
+                <td className="style">Himachal Pradesh</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>67</td>
-                <td class="style">
+                <td className="style">
                   M.N.D.A.V. Dental College &amp; Hospital, Solan
                 </td>
-                <td class="style">Himachal Pradesh</td>
+                <td className="style">Himachal Pradesh</td>
                 <td    className="hide">1997-98</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>68</td>
-                <td class="style">Govt. Dental College, Srinagar</td>
-                <td class="style">Jammu &amp; Kashmir</td>
+                <td className="style">Govt. Dental College, Srinagar</td>
+                <td className="style">Jammu &amp; Kashmir</td>
                 <td    className="hide">1985-86</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>69</td>
-                <td class="style">
+                <td className="style">
                   Indira Gandhi Government Dental College, Jammu
                 </td>
-                <td class="style">Jammu &amp; Kashmir</td>
+                <td className="style">Jammu &amp; Kashmir</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>70</td>
-                <td class="style">Institute of Dental Sciences, Sehora</td>
-                <td class="style">Jammu &amp; Kashmir</td>
+                <td className="style">Institute of Dental Sciences, Sehora</td>
+                <td className="style">Jammu &amp; Kashmir</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>71</td>
-                <td class="style">
+                <td className="style">
                   Awadh Dental College &amp; Hospital, Jamshedpur
                 </td>
-                <td class="style">Jharkhand</td>
+                <td className="style">Jharkhand</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>72</td>
-                <td class="style">
+                <td className="style">
                   Dental Institute Rajendra Institute of Medical Sciences, Ranchi
                 </td>
-                <td class="style">Jharkhand</td>
+                <td className="style">Jharkhand</td>
                 <td    className="hide">2017-18</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>73</td>
-                <td class="style">
+                <td className="style">
                   Hazaribag College of Dental Sciences and Hospital, Hazaribag
                 </td>
-                <td class="style">Jharkhand</td>
+                <td className="style">Jharkhand</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>74</td>
-                <td class="style">
+                <td className="style">
                   Vananchal Dental College &amp; Hospital, Garhwa
                 </td>
-                <td class="style">Jharkhand</td>
+                <td className="style">Jharkhand</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>75</td>
-                <td class="style">
+                <td className="style">
                   A.B. Shetty Memorial Institute of Dental Sciences, Mangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1985-86</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -1046,169 +1046,169 @@ export default class Dentalclg extends Component {
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>76</td>
-                <td class="style">A.J. Institute of Dental Sciences, Mangalore</td>
-                <td class="style">Karnataka</td>
+                <td className="style">A.J. Institute of Dental Sciences, Mangalore</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>77</td>
-                <td class="style">
+                <td className="style">
                   Air Force Institute of Dental Sciences, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2011-12</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>78</td>
-                <td class="style">
+                <td className="style">
                   Al Ameen Dental College &amp; Hospital, Bijapur
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>79</td>
-                <td class="style">
+                <td className="style">
                   Al-Badar Rural Dental College &amp; Hospital, Gulbarga
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>80</td>
-                <td class="style">AME’s Dental College &amp; Hospital, Raichur</td>
-                <td class="style">Karnataka</td>
+                <td className="style">AME’s Dental College &amp; Hospital, Raichur</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>81</td>
-                <td class="style">
+                <td className="style">
                   Bangalore Institute of Dental Sciences &amp; Hospital, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
             
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>82</td>
-                <td class="style">
+                <td className="style">
                   Bapuji Dental College &amp; Hospital, Davangere
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1979-80</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>83</td>
-                <td class="style">College of Dental Sciences, Davangere</td>
-                <td class="style">Karnataka</td>
+                <td className="style">College of Dental Sciences, Davangere</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>84</td>
-                <td class="style">Coorg Institute of Dental Sciences, Virajpat</td>
-                <td class="style">Karnataka</td>
+                <td className="style">Coorg Institute of Dental Sciences, Virajpat</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>85</td>
-                <td class="style">
+                <td className="style">
                   D.A. Pandu Memorial R.V. Dental College, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>86</td>
-                <td class="style">
+                <td className="style">
                   Dayanand Sagar College of Dental Sciences, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>87</td>
-                <td class="style">
+                <td className="style">
                   Dr. Syamala Reddy Dental College, Hospital &amp; Research Centre,
                   Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -1219,29 +1219,29 @@ export default class Dentalclg extends Component {
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>88</td>
-                <td class="style">ESIC Dental College, Gulbarga</td>
-                <td class="style">Karnataka</td>
+                <td className="style">ESIC Dental College, Gulbarga</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2017-18</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>89</td>
-                <td class="style">
+                <td className="style">
                   Farooqia Dental College &amp; Hospital, Mysore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -1252,115 +1252,115 @@ export default class Dentalclg extends Component {
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>90</td>
-                <td class="style">
+                <td className="style">
                   Govt. Dental College &amp; Research Institute, Bellary
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>91</td>
-                <td class="style">Govt. Dental College, Bangalore</td>
-                <td class="style">Karnataka</td>
+                <td className="style">Govt. Dental College, Bangalore</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1964-65</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>92</td>
-                <td class="style">
+                <td className="style">
                   H.K.D.E.Ts Dental College, Hospital &amp; Research Institute,
                   Humnabad
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>93</td>
-                <td class="style">
+                <td className="style">
                   H.K.E. Society's, S. Nijalingappa Institute of Dental Sciences
                   &amp; Research
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1986-87</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>94</td>
-                <td class="style">JSS Dental College &amp; Hospital, Mysore</td>
-                <td class="style">Karnataka</td>
+                <td className="style">JSS Dental College &amp; Hospital, Mysore</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1986-87</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>95</td>
-                <td class="style">
+                <td className="style">
                   K.G.F. College of Dental Sciences &amp; Hospital, KGF
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>96</td>
-                <td class="style">K.V.G. Dental College &amp; Hospital, Sullia</td>
-                <td class="style">Karnataka</td>
+                <td className="style">K.V.G. Dental College &amp; Hospital, Sullia</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>97</td>
-                <td class="style">
+                <td className="style">
                   KLE Society’s Institute of Dental Sciences,Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -1376,16 +1376,16 @@ export default class Dentalclg extends Component {
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>98</td>
-                <td class="style">
+                <td className="style">
                   KLE Vishwanath Katti Institute of Dental Sciences, Belgaum
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1985-86</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -1401,45 +1401,45 @@ export default class Dentalclg extends Component {
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>99</td>
-                <td class="style">
+                <td className="style">
                   Krishnadevaraya College of Dental Sciences &amp; Hospital,
                   Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>100</td>
-                <td class="style">
+                <td className="style">
                   M.R.A. Dental College &amp; Hospital, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1986-87</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               {/* <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>101</td>
-                <td class="style">M.S. Ramaiah Dental College, Bangalore</td>
-                <td class="style">Karnataka</td>
+                <td className="style">M.S. Ramaiah Dental College, Bangalore</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1452,17 +1452,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>102</td>
-                <td class="style">
+                <td className="style">
                   Maaruti College of Dental Sciences &amp; Research Centre,
                   Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -1480,14 +1480,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>103</td>
-                <td class="style">Manipal College of Dental Sciences, Mangalore</td>
-                <td class="style">Karnataka</td>
+                <td className="style">Manipal College of Dental Sciences, Mangalore</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1987-88</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1500,14 +1500,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>104</td>
-                <td class="style">Manipal College of Dental Sciences, Manipal</td>
-                <td class="style">Karnataka</td>
+                <td className="style">Manipal College of Dental Sciences, Manipal</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1965-66</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1520,16 +1520,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>105</td>
-                <td class="style">
+                <td className="style">
                   Maratha Mandal’s Dental College &amp; Research Centre, Belgaum
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1542,14 +1542,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>106</td>
-                <td class="style">Navodaya Dental College, Raichur</td>
-                <td class="style">Karnataka</td>
+                <td className="style">Navodaya Dental College, Raichur</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1562,16 +1562,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>107</td>
-                <td class="style">
+                <td className="style">
                   P.M.N.M. Dental College &amp; Hospital, Bagalkot
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1987-88</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1584,16 +1584,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>108</td>
-                <td class="style">
+                <td className="style">
                   Rajarajeswari Dental College &amp; Hospital, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1606,61 +1606,61 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>109</td>
-                <td class="style">
+                <td className="style">
                   S.B. Patil Dental College &amp; Hospital, Bidar
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>110</td>
-                <td class="style">
+                <td className="style">
                   S.J.M. Dental College &amp; Hospital, Chitradurga
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1986-87</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>111</td>
-                <td class="style">
+                <td className="style">
                   SDM College of Dental Sciences &amp; Hospital, Dharwad
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1986-87</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>112</td>
-                <td class="style">
+                <td className="style">
                   Sharavathi Dental College &amp; Hospital, Shimoga
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1673,16 +1673,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>113</td>
-                <td class="style">
+                <td className="style">
                   Sri Hasanamba Dental College &amp; Hospital, Hassan
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -1702,116 +1702,116 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>114</td>
-                <td class="style">
+                <td className="style">
                   Sri Rajiv Gandhi College of Dental Sciences &amp; Hospital,
                   Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>115</td>
-                <td class="style">Sri Siddhartha Dental College, Tumkur</td>
-                <td class="style">Karnataka</td>
+                <td className="style">Sri Siddhartha Dental College, Tumkur</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>116</td>
-                <td class="style">
+                <td className="style">
                   Sri Venkateshwara Dental College &amp; Hospital, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>117</td>
-                <td class="style">
+                <td className="style">
                   Srinivas Institute of Dental Sciences, Mangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2012-13</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>118</td>
-                <td class="style">
+                <td className="style">
                   Subbaiah Institute of Dental Sciences, Purale, Shimoga
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2014-15</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>119</td>
-                <td class="style">The Oxford Dental College, Bangalore</td>
-                <td class="style">Karnataka</td>
+                <td className="style">The Oxford Dental College, Bangalore</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>120</td>
-                <td class="style">V.S. Dental College, Bangalore</td>
-                <td class="style">Karnataka</td>
+                <td className="style">V.S. Dental College, Bangalore</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1986-87</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>121</td>
-                <td class="style">
+                <td className="style">
                   Vydehi Institute of Dental Sciences &amp; Research, Bangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1824,16 +1824,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>122</td>
-                <td class="style">
+                <td className="style">
                   Yenepoya Dental College &amp; Hospital, Mangalore
                 </td>
-                <td class="style">Karnataka</td>
+                <td className="style">Karnataka</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1846,14 +1846,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>123</td>
-                <td class="style">Al-Azhar Dental College, Kerala</td>
-                <td class="style">Kerala</td>
+                <td className="style">Al-Azhar Dental College, Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1866,14 +1866,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>124</td>
-                <td class="style">Amrita School of Dentistry, Kochi</td>
-                <td class="style">Kerala</td>
+                <td className="style">Amrita School of Dentistry, Kochi</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1886,16 +1886,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>125</td>
-                <td class="style">
+                <td className="style">
                   Annoor Dental College &amp; Hospital, Ernakulam
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1908,16 +1908,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>126</td>
-                <td class="style">
+                <td className="style">
                   Azeezia College of Dental Sciences &amp; Research, Kollam
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1930,17 +1930,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>127</td>
-                <td class="style">
+                <td className="style">
                   Century International Institute of Dental Science &amp; Research
                   Center, Kasaragod
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1953,16 +1953,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>128</td>
-                <td class="style">
+                <td className="style">
                   Educare Institute of Dental Sciences, Malappuram
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -1975,14 +1975,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>129</td>
-                <td class="style">Govt. Dental College, Alappuzha</td>
-                <td class="style">Kerala</td>
+                <td className="style">Govt. Dental College, Alappuzha</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2014-15</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -1995,14 +1995,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>130</td>
-                <td class="style">Govt. Dental College, Kottayam</td>
-                <td class="style">Kerala</td>
+                <td className="style">Govt. Dental College, Kottayam</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2015,14 +2015,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>131</td>
-                <td class="style">Govt. Dental College, Kozhikode</td>
-                <td class="style">Kerala</td>
+                <td className="style">Govt. Dental College, Kozhikode</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">1981-82</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2035,14 +2035,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>132</td>
-                <td class="style">Govt. Dental College, Thrissur</td>
-                <td class="style">Kerala</td>
+                <td className="style">Govt. Dental College, Thrissur</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2015-16</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2055,14 +2055,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>133</td>
-                <td class="style">Govt. Dental College, Trivandrum</td>
-                <td class="style">Kerala</td>
+                <td className="style">Govt. Dental College, Trivandrum</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">1959-60</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2075,16 +2075,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>134</td>
-                <td class="style">
+                <td className="style">
                   Indira Gandhi Institute of Dental Sciences, Kothamangalam
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2097,14 +2097,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>135</td>
-                <td class="style">Kannur Dental College, kannur</td>
-                <td class="style">Kerala</td>
+                <td className="style">Kannur Dental College, kannur</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2117,14 +2117,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>136</td>
-                <td class="style">KMCT Dental College, Calicut</td>
-                <td class="style">Kerala</td>
+                <td className="style">KMCT Dental College, Calicut</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2137,16 +2137,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>137</td>
-                <td class="style">
+                <td className="style">
                   Malabar Dental College &amp; Research Centre, Malappuram
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2159,14 +2159,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>138</td>
-                <td class="style">Mar Baselios Dental College, Kothamangalam</td>
-                <td class="style">Kerala</td>
+                <td className="style">Mar Baselios Dental College, Kothamangalam</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2179,14 +2179,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>139</td>
-                <td class="style">MES Dental College, Malappuram</td>
-                <td class="style">Kerala</td>
+                <td className="style">MES Dental College, Malappuram</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2199,16 +2199,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>140</td>
-                <td class="style">
+                <td className="style">
                   Noorul Islam College of Dental Sciences, Trivandrum
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2221,16 +2221,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>141</td>
-                <td class="style">
+                <td className="style">
                   Pariyaram Dental College, Academy of Medical Sciences, Kannur
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2243,16 +2243,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>142</td>
-                <td class="style">
+                <td className="style">
                   PMS College of Dental Science &amp; Research, Thiruvananthpuram
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2265,16 +2265,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>143</td>
-                <td class="style">
+                <td className="style">
                   PSM College of Dental Sciences &amp; Research, Trichur
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2287,16 +2287,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>144</td>
-                <td class="style">
+                <td className="style">
                   Pushpagiri College of Dental Sciences, Tiruvalla
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2309,14 +2309,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>145</td>
-                <td class="style">Royal Dental College, kerala</td>
-                <td class="style">Kerala</td>
+                <td className="style">Royal Dental College, kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2329,14 +2329,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>146</td>
-                <td class="style">Sree Anjaneya Medical Trust, Calicut</td>
-                <td class="style">Kerala</td>
+                <td className="style">Sree Anjaneya Medical Trust, Calicut</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2013-14</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2349,16 +2349,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>147</td>
-                <td class="style">
+                <td className="style">
                   Sri Sankara Dental College, Thiruvananthapuram
                 </td>
-                <td class="style">Kerala</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -2390,14 +2390,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>148</td>
-                <td class="style">St. Gregorios Dental College, Ernakulam</td>
-                <td class="style">Kerala</td>
+                <td className="style">St. Gregorios Dental College, Ernakulam</td>
+                <td className="style">Kerala</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2410,14 +2410,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>149</td>
-                <td class="style">Bhabha College of Dental Sciences, Bhopal</td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Bhabha College of Dental Sciences, Bhopal</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2430,16 +2430,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>150</td>
-                <td class="style">
+                <td className="style">
                   College of Dental Sciences &amp; Hospital, Indore
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2452,14 +2452,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>151</td>
-                <td class="style">College of Dentistry- Indore</td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">College of Dentistry- Indore</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">1960-61</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2472,17 +2472,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>152</td>
-                <td class="style">
+                <td className="style">
                   Guru Gobind Singh College of Dental Science &amp; Research Centre,
                   Burhanpur
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2495,16 +2495,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>153</td>
-                <td class="style">
+                <td className="style">
                   Hitkarini Dental College &amp; Hospital, Jabalpur
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2517,46 +2517,46 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>154</td>
-                <td class="style">Index Institute of Dental Sciences, Indore</td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Index Institute of Dental Sciences, Indore</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2012-13</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>155</td>
-                <td class="style">
+                <td className="style">
                   Institute of Dental Education &amp; Advance Studies (IDEAS),
                   Gwalior
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>156</td>
-                <td class="style">
+                <td className="style">
                   Maharana Pratap College of Dentistry &amp; Research Centre,
                   Gwalior
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -2567,29 +2567,29 @@ export default class Dentalclg extends Component {
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>157</td>
-                <td class="style">Mansarover Dental College, Bhopal</td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Mansarover Dental College, Bhopal</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>158</td>
-                <td class="style">
+                <td className="style">
                   Modern Dental College &amp; Research Centre, Indore
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -2601,71 +2601,71 @@ export default class Dentalclg extends Component {
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>159</td>
-                <td class="style">People’s Dental Academy, Bhopal</td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">People’s Dental Academy, Bhopal</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>160</td>
-                <td class="style">
+                <td className="style">
                   Peoples College of Dental Sciences &amp; Research Centre, Bhopal
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>161</td>
-                <td class="style">
+                <td className="style">
                   Rishiraj College of Dental Sciences &amp; Research Centre, Bhopal
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>162</td>
-                <td class="style">
+                <td className="style">
                   RKDF Dental College &amp; Research Centre, Bhopal
                 </td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
             
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>163</td>
-                <td class="style">Sri Aurobindo College of Dentistry, Indore</td>
-                <td class="style">Madhya Pradesh</td>
+                <td className="style">Sri Aurobindo College of Dentistry, Indore</td>
+                <td className="style">Madhya Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2678,14 +2678,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>164</td>
-                <td class="style">Aditya Dental College, Beed</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Aditya Dental College, Beed</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2698,16 +2698,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>165</td>
-                <td class="style">
+                <td className="style">
                   Annasaheb Chudaman Patil Memorial Dental College, Dhule
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2720,14 +2720,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>166</td>
-                <td class="style">Armed Forces Medical College, Pune-1</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Armed Forces Medical College, Pune-1</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1954-55</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2740,31 +2740,31 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>167</td>
-                <td class="style">
+                <td className="style">
                   Bharati Vidyapeeth Dental College &amp; Hospital, Navi Mumbai
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>168</td>
-                <td class="style">
+                <td className="style">
                   Bharati Vidyapeeth Dental College &amp; Hospital, Pune
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1988-89</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2777,16 +2777,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>169</td>
-                <td class="style">
+                <td className="style">
                   Bharati Vidyapeeth Dental College &amp; Hospital, Sangli
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2799,17 +2799,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>170</td>
-                <td class="style">
+                <td className="style">
                   Chatrapati Shahu Maharaj Shikshan Sanstha’s Dental College &amp;
                   Hospital, Aurangabad
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2822,14 +2822,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>171</td>
-                <td class="style">D.Y. Patil Dental School, Pune</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">D.Y. Patil Dental School, Pune</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2011-12</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2842,16 +2842,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>172</td>
-                <td class="style">
+                <td className="style">
                   Dr. D.Y. Patil Dental College &amp; Hospital, Pune
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2864,17 +2864,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>173</td>
-                <td class="style">
+                <td className="style">
                   Dr. Hedgewar Smruti Rugna Seva Mandals Dental College &amp;
                   Hospital, Hingoli
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2887,16 +2887,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>174</td>
-                <td class="style">
+                <td className="style">
                   Dr. Rajesh Ramdasji Kambe Dental College &amp; Hospital, Akola
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2015-16</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2909,16 +2909,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>175</td>
-                <td class="style">
+                <td className="style">
                   Govt. Dental College &amp; Hospital, Aurangabad
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1982-83</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2931,14 +2931,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>176</td>
-                <td class="style">Govt. Dental College &amp; Hospital, Mumbai</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Govt. Dental College &amp; Hospital, Mumbai</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1951-52</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2951,14 +2951,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>177</td>
-                <td class="style">Govt. Dental College &amp; Hospital, Nagpur</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Govt. Dental College &amp; Hospital, Nagpur</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1968-69</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -2971,17 +2971,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>178</td>
-                <td class="style">
+                <td className="style">
                   Late Shri Yashwantrao Chavan Memorial Medical &amp; Rural
                   Development Foundation's Dental College &amp; Hospital, Ahmednagar
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -2994,17 +2994,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>179</td>
-                <td class="style">
+                <td className="style">
                   M.A. Rangoonwala College of Dental Sciences &amp; Research Centre,
                   Pune
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3017,17 +3017,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>180</td>
-                <td class="style">
+                <td className="style">
                   Maharashtra Institute of Dental Sciences &amp; Research (Dental
                   College)
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3040,17 +3040,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>181</td>
-                <td class="style">
+                <td className="style">
                   Mahatma Gandhi Missions Dental College &amp; Hospital, Kamothe,
                   Navi Mumbai
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3063,17 +3063,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>182</td>
-                <td class="style">
+                <td className="style">
                   Mahatma Gandhi Vidya Mandir’s Dental College &amp; Hospital,
                   Nashik
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3086,14 +3086,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>183</td>
-                <td class="style">Nair Hospital Dental College, Mumbai</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Nair Hospital Dental College, Mumbai</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1951-52</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -3106,16 +3106,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>184</td>
-                <td class="style">
+                <td className="style">
                   Nanded Rural Dental College &amp; Research Center, Nanded
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2014-15</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3128,17 +3128,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>185</td>
-                <td class="style">
+                <td className="style">
                   Padmashree Dr. D.Y. Patil Dental College &amp; Hospital, Navi
                   Mumbai
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3151,16 +3151,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>186</td>
-                <td class="style">
+                <td className="style">
                   Pandit Dindayal Upadhyay Dental College, Solapur
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3173,14 +3173,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>187</td>
-                <td class="style">Rural Dental College, Loni</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Rural Dental College, Loni</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1989-90</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3193,16 +3193,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>188</td>
-                <td class="style">
+                <td className="style">
                   S.M.B.T. Dental College &amp; Hospital, Amrutnagar
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3215,16 +3215,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>189</td>
-                <td class="style">
+                <td className="style">
                   Saraswati Danwantri Dental College &amp; Hospital, Parbhani
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3237,17 +3237,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>190</td>
-                <td class="style">
+                <td className="style">
                   School of Dental Sciences, Krishna Institute of Medical Sciences,
                   Karad
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3260,16 +3260,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>191</td>
-                <td class="style">
+                <td className="style">
                   Sharad Pawar Dental College &amp; Hospital, Wardha
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -3287,14 +3287,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>192</td>
-                <td class="style">Sinhgad Dental College &amp; Hospital, Pune</td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Sinhgad Dental College &amp; Hospital, Pune</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3307,16 +3307,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>193</td>
-                <td class="style">
+                <td className="style">
                   SMBT Institute of Dental Sciences and Research, Nandihills, Nashik
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2016-17</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3329,17 +3329,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>194</td>
-                <td class="style">
+                <td className="style">
                   Swargiya Dadasaheb Kalmegh Smruti Dental College &amp; Hospital,
                   Nagpur
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3352,16 +3352,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>195</td>
-                <td class="style">
+                <td className="style">
                   Tatyasaheb Kore Dental College &amp; Research Centre, New Pargaon
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3374,16 +3374,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>196</td>
-                <td class="style">
+                <td className="style">
                   Terna Dental College &amp; Hospital, Navi Mumbai
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3396,16 +3396,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>197</td>
-                <td class="style">
+                <td className="style">
                   Vasantdada Patil Dental College and Hospital, Sangli
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1989-90</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3418,17 +3418,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>198</td>
-                <td class="style">
+                <td className="style">
                   Vidarbha Youth Welfare Society’s Dental College &amp; Hospital,
                   Amravati
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1989-90</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3441,16 +3441,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>199</td>
-                <td class="style">
+                <td className="style">
                   VSPM’s Dental College &amp; Research Centre, Nagpur
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">1996-97</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -3468,17 +3468,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>200</td>
-                <td class="style">
+                <td className="style">
                   Yerala Medical Trust &amp; Research Centre’s Dental College &amp;
                   Hospital, Navi Mumbai
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -3499,16 +3499,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>201</td>
-                <td class="style">
+                <td className="style">
                   Yogita Dental College &amp; Hospital, Ratnagiri
                 </td>
-                <td class="style">Maharashtra</td>
+                <td className="style">Maharashtra</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3521,14 +3521,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>202</td>
-                <td class="style">Dental College, RIMS, Imphal</td>
-                <td class="style">Manipur</td>
+                <td className="style">Dental College, RIMS, Imphal</td>
+                <td className="style">Manipur</td>
                 <td    className="hide">2013-14</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -3541,16 +3541,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>203</td>
-                <td class="style">
+                <td className="style">
                   Jawaharlal Nehru Institute of Dental Sciences, Imphal
                 </td>
-                <td class="style">Manipur</td>
+                <td className="style">Manipur</td>
                 <td    className="hide">2017-18</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -3563,16 +3563,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>204</td>
-                <td class="style">
+                <td className="style">
                   Hi-Tech Dental College &amp; hospital, Bhubaneswar
                 </td>
-                <td class="style">Orissa</td>
+                <td className="style">Orissa</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3585,14 +3585,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>205</td>
-                <td class="style">Institute of Dental Sciences, Bhubaneswar</td>
-                <td class="style">Orissa</td>
+                <td className="style">Institute of Dental Sciences, Bhubaneswar</td>
+                <td className="style">Orissa</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3605,16 +3605,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>206</td>
-                <td class="style">
+                <td className="style">
                   Kalinga Institute of Dental Sciences, Bhubaneswar
                 </td>
-                <td class="style">Orissa</td>
+                <td className="style">Orissa</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3627,14 +3627,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>207</td>
-                <td class="style">S.C.B. Dental College &amp; Hospital, Cuttack</td>
-                <td class="style">Orissa</td>
+                <td className="style">S.C.B. Dental College &amp; Hospital, Cuttack</td>
+                <td className="style">Orissa</td>
                 <td    className="hide">1983-84</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -3647,16 +3647,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>208</td>
-                <td class="style">
+                <td className="style">
                   Indira Gandhi Institute of Dental Sciences, Pondicherry
                 </td>
-                <td class="style">Pondicherry</td>
+                <td className="style">Pondicherry</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3669,17 +3669,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>209</td>
-                <td class="style">
+                <td className="style">
                   Mahatma Gandhi Post Graduate Institute of Dental Sciences,
                   Puducherry
                 </td>
-                <td class="style">Pondicherry</td>
+                <td className="style">Pondicherry</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -3692,16 +3692,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>210</td>
-                <td class="style">
+                <td className="style">
                   Mahe Institute of Dental Sciences &amp; Hospital, Mahe
                 </td>
-                <td class="style">Pondicherry</td>
+                <td className="style">Pondicherry</td>
                 <td    className="hide">2009-10</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3714,14 +3714,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>211</td>
-                <td class="style">Sri Venkateshwaraa Dental College, Puducherry</td>
-                <td class="style">Pondicherry</td>
+                <td className="style">Sri Venkateshwaraa Dental College, Puducherry</td>
+                <td className="style">Pondicherry</td>
                 <td    className="hide">2014-15</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3734,16 +3734,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>212</td>
-                <td class="style">
+                <td className="style">
                   Adesh Institute of Dental Sciences &amp; Research, Bathinda
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3756,17 +3756,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>213</td>
-                <td class="style">
+                <td className="style">
                   Baba Jaswant Singh Dental College Hospital &amp; Research
                   Institute, Ludhiana
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1997-98</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3779,14 +3779,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>214</td>
-                <td class="style">Christian Dental College, Ludhiana</td>
-                <td class="style">Punjab</td>
+                <td className="style">Christian Dental College, Ludhiana</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3799,16 +3799,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>215</td>
-                <td class="style">
+                <td className="style">
                   Dasmesh Institute of Research &amp; Dental Sciences, Faridkot
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3821,16 +3821,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>216</td>
-                <td class="style">
+                <td className="style">
                   Desh Bhagat Dental College &amp; Hospital, Mandi Gobindgarh
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3843,16 +3843,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>217</td>
-                <td class="style">
+                <td className="style">
                   Genesis Institute of Dental Sciences &amp; Research, Ferozepur
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3865,14 +3865,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>218</td>
-                <td class="style">Govt. Dental College &amp; Hospital, Patiala</td>
-                <td class="style">Punjab</td>
+                <td className="style">Govt. Dental College &amp; Hospital, Patiala</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1956-57</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -3885,16 +3885,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>219</td>
-                <td class="style">
+                <td className="style">
                   Guru Nanak Dev Dental College &amp; Research Institute, Sunam
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1996-97</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3907,16 +3907,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>220</td>
-                <td class="style">
+                <td className="style">
                   Luxmi Bai Institute of Dental Sciences &amp; Hospital, Patiala
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3929,16 +3929,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>221</td>
-                <td class="style">
+                <td className="style">
                   National Dental College &amp; Hospital, Gulabgarh
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3951,16 +3951,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>222</td>
-                <td class="style">
+                <td className="style">
                   Pb. Govt. Dental College &amp; Hospital, Amritsar
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1952-53</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -3973,14 +3973,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>223</td>
-                <td class="style">Rayat Bahra Dental College, Mohali</td>
-                <td class="style">Punjab</td>
+                <td className="style">Rayat Bahra Dental College, Mohali</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">2010-11</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -3993,17 +3993,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>224</td>
-                <td class="style">
+                <td className="style">
                   Shaheed Kartar Singh Sarabha Dental College &amp; Hospital,
                   Ludhiana
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4016,17 +4016,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>225</td>
-                <td class="style">
+                <td className="style">
                   Sri Guru Ram Das Institute of Dental Sciences &amp; Research,
                   Amritsar
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">1992-93</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4039,16 +4039,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>226</td>
-                <td class="style">
+                <td className="style">
                   Sukhmani Dental College &amp; Hospital, Derabassi
                 </td>
-                <td class="style">Punjab</td>
+                <td className="style">Punjab</td>
                 <td    className="hide">2012-13</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4061,16 +4061,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>227</td>
-                <td class="style">
+                <td className="style">
                   Darshan Dental College &amp; Hospital, Udaipur
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4083,16 +4083,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>228</td>
-                <td class="style">
+                <td className="style">
                   Daswani Dental College &amp; Research Centre, Kota
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4105,16 +4105,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>229</td>
-                <td class="style">
+                <td className="style">
                   Eklavya Dental College &amp; Hospital, Kotputli
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4127,16 +4127,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>230</td>
-                <td class="style">
+                <td className="style">
                   Geetanjali Dental &amp; Research Institute, Udaipur
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2014-15</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4149,14 +4149,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>231</td>
-                <td class="style">Govt. Dental College &amp; Hospital, Jaipur</td>
-                <td class="style">Rajasthan</td>
-                <td class="style">1988-89</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt. Dental College &amp; Hospital, Jaipur</td>
+                <td className="style">Rajasthan</td>
+                <td className="style">1988-89</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -4169,14 +4169,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>232</td>
-                <td class="style">Jaipur Dental College, Jaipur</td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Jaipur Dental College, Jaipur</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4189,16 +4189,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>233</td>
-                <td class="style">
+                <td className="style">
                   Jodhpur Dental College General Hospital, Jodhpur
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -4217,17 +4217,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>234</td>
-                <td class="style">
+                <td className="style">
                   Maharaja Ganga Singh Dental College &amp; Research Centre, Sri
                   Ganganagar
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4240,16 +4240,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>235</td>
-                <td class="style">
+                <td className="style">
                   Mahatma Gandhi Dental College &amp; Hospital, Sitapura, Jaipur
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4262,14 +4262,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>236</td>
-                <td class="style">NIMS Dental College, Jaipur</td>
-                <td class="style">Rajasthan</td>
+                <td className="style">NIMS Dental College, Jaipur</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4282,14 +4282,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>237</td>
-                <td class="style">Pacific Dental College &amp; Research Centre</td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Pacific Dental College &amp; Research Centre</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2015-16</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4302,14 +4302,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>238</td>
-                <td class="style">Pacific Dental College, udaipur</td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Pacific Dental College, udaipur</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4322,14 +4322,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>239</td>
-                <td class="style">R.R. Dental College &amp; Hospital, Udaipur</td>
-                <td class="style">Rajasthan</td>
+                <td className="style">R.R. Dental College &amp; Hospital, Udaipur</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2011-12</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4342,16 +4342,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>240</td>
-                <td class="style">
+                <td className="style">
                   Rajasthan Dental College &amp; Hospital, Jaipur
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4364,16 +4364,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>241</td>
-                <td class="style">
+                <td className="style">
                   Surendera Dental College &amp; Research Institute, Sri Ganganagar
                 </td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4386,14 +4386,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>242</td>
-                <td class="style">Vyas Dental College &amp; Hospital, Jodhpur</td>
-                <td class="style">Rajasthan</td>
+                <td className="style">Vyas Dental College &amp; Hospital, Jodhpur</td>
+                <td className="style">Rajasthan</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4406,16 +4406,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>243</td>
-                <td class="style">
+                <td className="style">
                   Adhiparasakthi Dental College &amp; Hospital, Melmaruvathur
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4428,16 +4428,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>244</td>
-                <td class="style">
+                <td className="style">
                   Asan Memorial Dental College &amp; Hospital, Kancheepuram
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2011-12</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4450,14 +4450,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>245</td>
-                <td class="style">Best Dental Science College, Madurai</td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Best Dental Science College, Madurai</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4470,16 +4470,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>246</td>
-                <td class="style">
+                <td className="style">
                   Chettinad Dental College &amp; Research Institute, Kancheepuram
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4492,16 +4492,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>247</td>
-                <td class="style">
+                <td className="style">
                   CSI College of Dental Sciences &amp; Research, Madurai
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4514,17 +4514,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>248</td>
-                <td class="style">
+                <td className="style">
                   Faculty of Dentistry, Rajah Muthiah Dental College &amp; Hospital,
                   Annamalai Nagar
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1980-81</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -4537,16 +4537,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>249</td>
-                <td class="style">
+                <td className="style">
                   JKK Natrajah Dental College &amp; Hospital, Komarapalayam
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1987-88</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4559,16 +4559,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>250</td>
-                <td class="style">
+                <td className="style">
                   K.S.R. Institute of Dental Science &amp; Research, Tiruchengode
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4581,16 +4581,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>251</td>
-                <td class="style">
+                <td className="style">
                   Karpaga Vinayaga Institute of Dental Sciences, Kanchipuram
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4603,16 +4603,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>252</td>
-                <td class="style">
+                <td className="style">
                   Madha Dental College &amp; Hospital, Kundrathur
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4625,16 +4625,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>253</td>
-                <td class="style">
+                <td className="style">
                   Meenakshi Ammal Dental College &amp; Hospital, Chennai
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4647,16 +4647,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>254</td>
-                <td class="style">
+                <td className="style">
                   Priyadarshini Dental College &amp; Hospital, Pandur
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4664,14 +4664,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>255</td>
-                <td class="style">R.V.S. Dental College &amp; Hospital, Sulur</td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">R.V.S. Dental College &amp; Hospital, Sulur</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2008-09</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4684,14 +4684,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>256</td>
-                <td class="style">Ragas Dental College &amp; Hospital, Chennai</td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Ragas Dental College &amp; Hospital, Chennai</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1988-89</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4704,16 +4704,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>257</td>
-                <td class="style">
+                <td className="style">
                   Rajas Dental College &amp; Hospital, Kavalkinaru Jn
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1987-88</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -4736,14 +4736,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>258</td>
-                <td class="style">S.R.M. Dental College, Ramapuram, Chennai</td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">S.R.M. Dental College, Ramapuram, Chennai</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1996-97</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4756,16 +4756,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>259</td>
-                <td class="style">
+                <td className="style">
                   Sathyabama University Dental College and Hospital, Chennai
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2009-10</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4778,16 +4778,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>260</td>
-                <td class="style">
+                <td className="style">
                   Saveetha Dental College &amp; Hospital, Chennai
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1988-89</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                  */}
                 {/* <td    className="hide">
@@ -4800,16 +4800,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>261</td>
-                <td class="style">
+                <td className="style">
                   Sree Balaji Dental College &amp; Hospital, Narayanpuram
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1989-90</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4822,16 +4822,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>262</td>
-                <td class="style">
+                <td className="style">
                   Sree Mookambika Institute of Dental Sciences, Kulasekharam
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4844,16 +4844,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>263</td>
-                <td class="style">
+                <td className="style">
                   Sri Ramachandra Dental College &amp; Hospital, Porur
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1995-96</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4866,16 +4866,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>264</td>
-                <td class="style">
+                <td className="style">
                   Sri Ramakrishna Dental College &amp; Hospital, Coimbatore
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -4892,16 +4892,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>265</td>
-                <td class="style">
+                <td className="style">
                   Sri Venkateswara Dental College &amp; Hospital, Kancheepuram
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4914,16 +4914,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>266</td>
-                <td class="style">
+                <td className="style">
                   SRM Kattankulathur Dental College &amp; Hospital, Kanchipuram
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4936,14 +4936,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>267</td>
-                <td class="style">Tagore Dental College &amp; Hospital, Chennai</td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tagore Dental College &amp; Hospital, Chennai</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -4956,16 +4956,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>268</td>
-                <td class="style">
+                <td className="style">
                   Tamil Nadu Government Dental College &amp; Hospital, Chennai
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1952-53</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -4978,16 +4978,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>269</td>
-                <td class="style">
+                <td className="style">
                   Thai Moogambigai Dental College &amp; Hospital, Chennai
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1991-92</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5000,16 +5000,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>270</td>
-                <td class="style">
+                <td className="style">
                   Vinayaka Mission’s Sankarachariyar Dental College, Salem
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">1986-87</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5022,16 +5022,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>271</td>
-                <td class="style">
+                <td className="style">
                   Vivekanandha Dental College for Women, Elayampalayam
                 </td>
-                <td class="style">Tamil Nadu</td>
+                <td className="style">Tamil Nadu</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5044,14 +5044,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>272</td>
-                <td class="style">Mamata Institute of Dental Sciences</td>
-                <td class="style">Telangana</td>
+                <td className="style">Mamata Institute of Dental Sciences</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2020-21</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5064,14 +5064,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>273</td>
-                <td class="style">Army College of Dental Sciences, Secunderabad</td>
-                <td class="style">Telangana</td>
+                <td className="style">Army College of Dental Sciences, Secunderabad</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5084,16 +5084,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>274</td>
-                <td class="style">
+                <td className="style">
                   Govt. Dental College &amp; Hospital, Afzalganj
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">1959-60</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -5106,16 +5106,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>275</td>
-                <td class="style">
+                <td className="style">
                   Kamineni Institute of Dental Sciences, Nalgonda
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5128,16 +5128,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>276</td>
-                <td class="style">
+                <td className="style">
                   Malla Reddy Dental College for Women, Hyderabad
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2013-14</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5150,16 +5150,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>277</td>
-                <td class="style">
+                <td className="style">
                   Malla Reddy Institute of Dental Sciences,Hyderabad
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2011-12</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5172,14 +5172,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>278</td>
-                <td class="style">Mamata Dental College, Khamam</td>
-                <td class="style">Telangana</td>
+                <td className="style">Mamata Dental College, Khamam</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5192,16 +5192,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>279</td>
-                <td class="style">
+                <td className="style">
                   Meghna Institute of Dental Sciences, Nizamabad
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5214,14 +5214,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>280</td>
-                <td class="style">MNR DENTAL COLLEGE &amp; HOSPITAL , MEDAK</td>
-                <td class="style">Telangana</td>
+                <td className="style">MNR DENTAL COLLEGE &amp; HOSPITAL , MEDAK</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5234,29 +5234,29 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>281</td>
-                <td class="style">
+                <td className="style">
                   Panineeya Mahavidyalaya Institute of Dental Sciences &amp;
                   Research Centre, Hyderabad
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>282</td>
-                <td class="style">Sri Balaji Dental College, Hyderabad</td>
-                <td class="style">Telangana</td>
+                <td className="style">Sri Balaji Dental College, Hyderabad</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2014-15</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5269,14 +5269,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>283</td>
-                <td class="style">Sri Sai College of Dental Surgery, Vikarabad</td>
-                <td class="style">Telangana</td>
+                <td className="style">Sri Sai College of Dental Surgery, Vikarabad</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5289,16 +5289,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>284</td>
-                <td class="style">
+                <td className="style">
                   Sri Venkata Sai Institute of Dental Sciences, Hyderabad
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5311,16 +5311,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>285</td>
-                <td class="style">
+                <td className="style">
                   Tirumala Institute of Dental Sciences &amp; Research Centre
                 </td>
-                <td class="style">Telangana</td>
+                <td className="style">Telangana</td>
                 <td    className="hide">2021-22</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5333,16 +5333,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>286</td>
-                <td class="style">
+                <td className="style">
                   Babu Banarasi Das College of Dental Sciences, Lucknow
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -5360,16 +5360,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>287</td>
-                <td class="style">
+                <td className="style">
                   Career Institute of Dental Sciences &amp; Hospital, Lucknow
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5382,16 +5382,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>288</td>
-                <td class="style">
+                <td className="style">
                   Chandra Dental College &amp; Hospital, safedabad
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5404,16 +5404,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>289</td>
-                <td class="style">
+                <td className="style">
                   D.J. College of Dental Sciences &amp; Research, Modi Nagar
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -5432,14 +5432,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>290</td>
-                <td class="style">Dental College Azamgarh</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Dental College Azamgarh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5452,14 +5452,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>291</td>
-                <td class="style">Dr. Ziauddin Ahmad Dental College, Aligarh</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Dr. Ziauddin Ahmad Dental College, Aligarh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1996-97</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -5472,16 +5472,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>292</td>
-                <td class="style">
+                <td className="style">
                   Faculty of Dental Sciences, Banaras Hindu University, Varanasi
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -5494,14 +5494,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>293</td>
-                <td class="style">Faculty of Dental Sciences, Lucknow</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Faculty of Dental Sciences, Lucknow</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1951-52</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -5514,16 +5514,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>294</td>
-                <td class="style">
+                <td className="style">
                   I.T.S. Centre for Dental Studies &amp; Research, Ghaziabad
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5536,16 +5536,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>295</td>
-                <td class="style">
+                <td className="style">
                   I.T.S. Dental College, Hospital &amp; Research Centre, Gr. Noida
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark">
@@ -5563,16 +5563,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>296</td>
-                <td class="style">
+                <td className="style">
                   Inderprastha Dental College &amp; Hospital, Ghaziabad
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5585,14 +5585,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>297</td>
-                <td class="style">Institute of Dental Sciences, Bareilly</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Institute of Dental Sciences, Bareilly</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5605,16 +5605,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>298</td>
-                <td class="style">
+                <td className="style">
                   Institute of Dental Studies &amp; Technology, Modinagar
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2000-01</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5627,14 +5627,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>299</td>
-                <td class="style">K.D. Dental College, Mathura</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">K.D. Dental College, Mathura</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2001-02</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5647,14 +5647,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>300</td>
-                <td class="style">Kalka Dental College &amp; Hospital, Meerut</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Kalka Dental College &amp; Hospital, Meerut</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5667,16 +5667,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>301</td>
-                <td class="style">
+                <td className="style">
                   Kothiwal Dental College &amp; Research Centre, Moradabad
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1999-00</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5689,16 +5689,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>302</td>
-                <td class="style">
+                <td className="style">
                   Maharana Pratap Dental College &amp; Hospital, Kanpur
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5711,16 +5711,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>303</td>
-                <td class="style">
+                <td className="style">
                   Purvanchal Institute of Dental Sciences, Gorakhpur
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5733,16 +5733,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>304</td>
-                <td class="style">
+                <td className="style">
                   Rama Dental College, Hospital &amp; Research Centre, Kanpur
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1996-97</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5755,16 +5755,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>305</td>
-                <td class="style">
+                <td className="style">
                   Santosh Dental College &amp; Hospital, Ghaziabad
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1995-96</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5777,14 +5777,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>306</td>
-                <td class="style">Saraswati Dental College, Lucknow</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Saraswati Dental College, Lucknow</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1998-99</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5797,17 +5797,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>307</td>
-                <td class="style">
+                <td className="style">
                   Sardar Patel Post Graduate Institute of Dental &amp; Medical
                   Sciences, Lucknow
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1996-97</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -5826,14 +5826,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>308</td>
-                <td class="style">School of Dental Sciences, Greater Noida</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">School of Dental Sciences, Greater Noida</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5846,16 +5846,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>309</td>
-                <td class="style">
+                <td className="style">
                   Shree Bankey Bihari Dental College &amp; Research Centre, Masuri
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2004-05</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5868,14 +5868,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>310</td>
-                <td class="style">Subharati Dental College, Meerut</td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Subharati Dental College, Meerut</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">1996-97</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5888,17 +5888,17 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>311</td>
-                <td class="style">
+                <td className="style">
                   Teerthanker Mahaveer Dental College &amp; Research Centre,
                   Moradabad
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 <td    className="hide">
@@ -5911,16 +5911,16 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>312</td>
-                <td class="style">
+                <td className="style">
                   U.P. Rural Institute of Medical Sciences &amp; Research, Saifai
                 </td>
-                <td class="style">Uttar Pradesh</td>
+                <td className="style">Uttar Pradesh</td>
                 <td    className="hide">2005-06</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">
@@ -5933,14 +5933,14 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>313</td>
-                <td class="style">Narayan Swami Hospital and Dental College</td>
-                <td class="style">Uttrakhand</td>
+                <td className="style">Narayan Swami Hospital and Dental College</td>
+                <td className="style">Uttrakhand</td>
                 <td    className="hide">&nbsp;</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark"
@@ -5960,73 +5960,73 @@ export default class Dentalclg extends Component {
                 </td>
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>314</td>
-                <td class="style">
+                <td className="style">
                   Seema Dental College &amp; Hospital, Rishikesh
                 </td>
-                <td class="style">Uttrakhand</td>
+                <td className="style">Uttrakhand</td>
                 <td    className="hide">2003-04</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>315</td>
-                <td class="style">
+                <td className="style">
                   Uttaranchal Dental College &amp; Medical Research Institute,
                   Dehradun
                 </td>
-                <td class="style">Uttrakhand</td>
+                <td className="style">Uttrakhand</td>
                 <td    className="hide">2006-07</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>316</td>
-                <td class="style">Burdwan Dental College, Rajbati</td>
-                <td class="style">West Bengal</td>
+                <td className="style">Burdwan Dental College, Rajbati</td>
+                <td className="style">West Bengal</td>
                 <td    className="hide">2009-10</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
               
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>317</td>
-                <td class="style">
+                <td className="style">
                   Dr. R. Ahmed Dental College &amp; Hospital, Calcutta
                 </td>
-                <td class="style">West Bengal</td>
+                <td className="style">West Bengal</td>
                 <td    className="hide">1951-52</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>318</td>
-                <td class="style">
+                <td className="style">
                   Gurunanak Institute of Dental Science &amp; Research, Kolkatta
                 </td>
-                <td class="style">West Bengal</td>
+                <td className="style">West Bengal</td>
                 <td    className="hide">2002-03</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 <td    className="hide" >
                   <span id="lblRemark">
@@ -6037,45 +6037,45 @@ export default class Dentalclg extends Component {
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>319</td>
-                <td class="style">
+                <td className="style">
                   Haldia Institute of Dental Sciences and Research, Banbishnupur
                 </td>
-                <td class="style">West Bengal</td>
+                <td className="style">West Bengal</td>
                 <td    className="hide">2007-08</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                
               >
                 <td>320</td>
-                <td class="style">
+                <td className="style">
                   Kusum Devi Sunderlal Dugar Jain Dental College &amp; Hospital,
                   Kolkata
                 </td>
-                <td class="style">West Bengal</td>
+                <td className="style">West Bengal</td>
                 <td    className="hide">2017-18</td>
-                <td class="style">Private</td>
+                <td className="style">Private</td>
                 
                 
                 
               </tr>
               <tr
-                class="rowStyle"
+                className="rowStyle"
                  
               >
                 <td>321</td>
-                <td class="style">The North Bengal Dental College, Sushratangar</td>
-                <td class="style">West Bengal</td>
+                <td className="style">The North Bengal Dental College, Sushratangar</td>
+                <td className="style">West Bengal</td>
                 <td    className="hide">1990-91</td>
-                <td class="style">Govt.</td>
+                <td className="style">Govt.</td>
                 
                 
                 <td    className="hide">

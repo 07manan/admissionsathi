@@ -48,7 +48,7 @@ export default function Coursel() {
           <span className="visually-hidden">Next</span>
         </button>
 
-        {/* <div class="col-md-6 col-sm-12 col-12"></div> */}
+        {/* <div className="col-md-6 col-sm-12 col-12"></div> */}
         </div>
         
       </div>

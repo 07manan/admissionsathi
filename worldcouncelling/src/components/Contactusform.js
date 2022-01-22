@@ -13,7 +13,7 @@ export class Contactusform extends Component {
           {/* <img className="img-fluid" src="genesis.png" alt="" /> */}
           <div className="row address">
             <div className="col-1" style={{ margin: "10px 0px" }}>
-              <i class="fas fa-search-location" />
+              <i className="fas fa-search-location" />
             </div>
             <div className="col-11" style={{ margin: "10px 0px" }}>
               <b>Head Office</b>
@@ -25,7 +25,7 @@ export class Contactusform extends Component {
             </div>
             <div className="row">
               <div className="col-1" style={{ margin: "10px 0px" }}>
-                <i class="fas fa-search-location" />
+                <i className="fas fa-search-location" />
               </div>
               <div className="container-fluid col-lg-6 col-md-12 col-sm-12 row text-justify">
               <b>Google Maps</b>
@@ -38,7 +38,7 @@ export class Contactusform extends Component {
               </div>
             </div>
             <div className="col-1" style={{ margin: "10px 0px" }}>
-              <i class="fas fa-phone"></i>
+              <i className="fas fa-phone"></i>
             </div>
             <div className="col-11" style={{ margin: "10px 0px" }}>
               <b>Contact Person</b>
@@ -54,7 +54,7 @@ export class Contactusform extends Component {
               </a>
             </div>
             <div className="col-1" style={{ margin: "10px 0px" }}>
-              <i class="far fa-envelope"></i>
+              <i className="far fa-envelope"></i>
             </div>
             <div className="col-11" style={{ margin: "10px 0px" }}>
               <a

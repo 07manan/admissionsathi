@@ -2,35 +2,35 @@ import React, { Component } from "react";
 
 export default class Counter extends Component {
   render() {
-    const counters = document.querySelectorAll(".coun");
-    const speed = 200; // The lower the slower
+    // const counters = document.querySelectorAll(".coun");
+    // const speed = 200; // The lower the slower
 
-    counters.forEach((coun) => {
-      const updateCount = () => {
-        const target = +coun.getAttribute("data-target");
-        const count = +coun.innerText;
+    // counters.forEach((coun) => {
+    //   const updateCount = () => {
+    //     const target = +coun.getAttribute("data-target");
+    //     const count = +coun.innerText;
 
-        // Lower inc to slow and higher to slow
-        const inc = target / speed;
+    //     // Lower inc to slow and higher to slow
+    //     const inc = target / speed;
 
-        //console.log(inc);
-        //console.log(count);
-        //console.log(target);
+    //     //console.log(inc);
+    //     //console.log(count);
+    //     //console.log(target);
 
-        // Check if target is reached
-        if (count < target) {
-          // Add inc to count and output in counter
-          coun.innerText = count + inc;
-          // Call function every ms
-          setTimeout(updateCount, 1);
-        } else {
-          coun.innerText = target;
-          console.log(coun.innerText);
-        }
-      };
+    //     // Check if target is reached
+    //     if (count < target) {
+    //       // Add inc to count and output in counter
+    //       coun.innerText = count + inc;
+    //       // Call function every ms
+    //       setTimeout(updateCount, 1);
+    //     } else {
+    //       coun.innerText = target;
+    //       console.log(coun.innerText);
+    //     }
+    //   };
 
-      updateCount();
-    });
+    //   updateCount();
+    // });
     return (
       /*  <div> 
         <section className="counters">
@@ -59,48 +59,48 @@ export default class Counter extends Component {
         </section>
         </div> */
 
-      <div class="container">
+      <div className="container">
         <section className="counters">
-          <div class="row">
-            <div class="col-md-3 col-sm-6">
-              <div class="counter">
-                <div class="counter-icon">
-                  <i class="fa fa-globe"></i>
+          <div className="row">
+            <div className="col-md-3 col-sm-6">
+              <div className="counter">
+                <div className="counter-icon">
+                  <i className="fa fa-globe"></i>
                 </div>
                 <h2>Colleges Network</h2>
 
                 <div className="coun" data-target={60000}></div>
-                <span class="counter-value">800+</span>
+                <span className="counter-value">800+</span>
               </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-              <div class="counter pink">
-                <div class="counter-icon">
-                  <i class="fa fa-layer-group"></i>
+            <div className="col-md-3 col-sm-6">
+              <div className="counter pink">
+                <div className="counter-icon">
+                  <i className="fa fa-layer-group"></i>
                 </div>
                 <h2>Offered Courses </h2>
                 <div className="coun" data-target={25000}></div>
-                <span class="counter-value">30+</span>
+                <span className="counter-value">30+</span>
               </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-              <div class="counter sky">
-                <div class="counter-icon">
-                  <i class="fa fa-clock"></i>
+            <div className="col-md-3 col-sm-6">
+              <div className="counter sky">
+                <div className="counter-icon">
+                  <i className="fa fa-clock"></i>
                 </div>
                 <h2>Trusted <h3>Since 2003</h3></h2>
                 <div className="coun" data-target={25000}></div>
-                <span class="counter-value">19+</span>
+                <span className="counter-value">19+</span>
               </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-              <div class="counter yellow">
-                <div class="counter-icon">
-                  <i class="fa fa-user-graduate"></i>
+            <div className="col-md-3 col-sm-6">
+              <div className="counter yellow">
+                <div className="counter-icon">
+                  <i className="fa fa-user-graduate"></i>
                 </div>
                 <h2>Happy students</h2>
                 <div className="coun" data-target={25000}></div>
-                <span class="counter-value">3500+</span>
+                <span className="counter-value">3500+</span>
               </div>
             </div>
           </div>
