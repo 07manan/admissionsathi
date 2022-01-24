@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 export default function Whoread() {
     return (
         <div className="about row">
-        <div className="col-8">   
+        <div className="col-lg-8 col-md-8 col-sm-12">   
         <h2>Who are we?</h2>
         <p>
           Genesis Students Consultants in Varanasi is one of the leading
