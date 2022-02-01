@@ -10,7 +10,6 @@ export class Contactusform extends Component {
             We value your feedback for complains or Compliments. If you have and
             inquiry related our services please submit inquiry form.
           </p>
-          {/* <img className="img-fluid" src="genesis.png" alt="" /> */}
           <div className="row address">
             <div className="col-1" style={{ margin: "10px 0px" }}>
               <i className="fas fa-search-location" />
@@ -28,11 +27,12 @@ export class Contactusform extends Component {
                 <i className="fas fa-search-location" />
               </div>
               <div className="container-fluid col-lg-6 col-md-12 col-sm-12 row text-justify">
-              <b>Google Maps</b>
+                <b>Google Maps</b>
                 <iframe
-                  title="map" className="maps"
+                  title="map"
+                  className="maps"
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.430158367781!2d82.99668859969674!3d25.289747852139985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e3107ec6c1035%3A0x5fd9f833ac7a1f1d!2sgenesis%20student%20consultants!5e0!3m2!1sen!2sin!4v1642012728609!5m2!1sen!2sin"
-                  /* width={600} height={450} style={{border: 0}} */ allowFullScreen
+                  allowFullScreen
                   loading="lazy"
                 />
               </div>

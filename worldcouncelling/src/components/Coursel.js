@@ -3,13 +3,12 @@ import React from "react";
 export default function Coursel() {
   return (
     <div >
-      {/* className="container " row */}
+      
       <div
         id="carouselExampleFade"
         className="carousel slide carousel-fade   "
         data-bs-ride="carousel"
       > 
-{/*     col-lg-8 col-sm-12 col-12 mt-4 ml-4 */ }
       
         <div className="carousel-inner  ">
           <div className="carousel-item ">
@@ -47,8 +46,6 @@ export default function Coursel() {
           <span className="carousel-control-next-icon" aria-hidden="true" />
           <span className="visually-hidden">Next</span>
         </button>
-
-        {/* <div className="col-md-6 col-sm-12 col-12"></div> */}
         </div>
         
       </div>
